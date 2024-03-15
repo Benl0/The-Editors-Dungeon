@@ -1,0 +1,30 @@
+---
+cssclass: 
+date: 2024-03-05
+type: wondrous items
+book: "[[Players Handbook.pdf]]"
+tags:
+  - "#DnD/Items/Wondrous-Items"
+back: "[[wondrous items]]"
+stablock: inline
+---
+Last Modified: (mday:: `= this.file.mday`)
+
+
+```statblock
+layout: Items
+source: "SRD"
+name: "Golden Lion"
+image: 
+category: "Wondrous Items"
+cost: "60.0 pp"
+rarity: "rare"
+
+ac: ""
+
+damage: ""
+damage_type: ""
+properties: ""
+
+description: "A figurine of wondrous power is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.\n\nThe creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.\n\nThe creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.\n\nGolden Lions. These gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a lion for up to 1 hour. Once a lion has been used, it can't be used again until 7 days have passed.</p>"
+```
