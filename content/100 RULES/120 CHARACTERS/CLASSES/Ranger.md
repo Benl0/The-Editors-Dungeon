@@ -3,7 +3,7 @@ cssclasses:
   - dashboard
 date: 2024-02-27 11:04
 type: class
-book: "[[Players Handbook.pdf#page=83]]"
+book: "[[Players Handbook.pdf83]]"
 tags:
   - DnD/Rules/Classes/Ranger
 back: "[[Classes]]"

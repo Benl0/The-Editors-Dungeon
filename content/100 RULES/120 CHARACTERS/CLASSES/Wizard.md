@@ -3,7 +3,7 @@ cssclass:
   - dashboard
 date: 2024-02-24 12:45
 type: class
-book: "[[Players Handbook.pdf#page=106]]"
+book: "[[Players Handbook.pdf106]]"
 tags:
   - DnD/Rules/Classes/Wizard
   - DnD/Rules

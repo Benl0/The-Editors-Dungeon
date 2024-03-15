@@ -3,7 +3,7 @@ cssclasses:
   - dashboard
 date: 2024-02-21 14:07
 type: class
-book: "[[Players Handbook.pdf#page=105]]"
+book: "[[Players Handbook.pdf105]]"
 tags:
   - DnD/Rules/Classes/Warlock
 back: "[[Classes]]"

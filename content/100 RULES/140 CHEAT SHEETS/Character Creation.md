@@ -2,7 +2,7 @@
 cssclas: 
 date: 2022-11-05 19:35
 type: note
-book: "[[Players Handbook.pdf#page=8]]"
+book: "[[Players Handbook.pdf8]]"
 tags:
   - DnD/Rules
 back: "[[5e Rules MOC]]"

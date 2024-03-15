@@ -2,7 +2,7 @@
 cssclass: 
 date: 2024-03-03 16:16
 type: note
-book: "[[Players Handbook.pdf#page=137]]"
+book: "[[Players Handbook.pdf137]]"
 tags: 
 back:
 ---

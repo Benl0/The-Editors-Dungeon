@@ -2,7 +2,7 @@
 cssclasses: 
 date: 2024-03-03 13:22
 type: note
-book: "[[Players Handbook.pdf#page=135]]"
+book: "[[Players Handbook.pdf135]]"
 tags:
   - DnD/Rules/Equipment
 back: "[[5e Rules MOC]]"

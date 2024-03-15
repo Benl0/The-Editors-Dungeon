@@ -2,7 +2,7 @@
 cssclasses: 
 date: 2024-03-02 21:30
 type: item
-book: "[[Players Handbook.pdf#page=136]]"
+book: "[[Players Handbook.pdf136]]"
 tags:
   - DnD/Items/Armour
 back: "[[Reference MOC]]"

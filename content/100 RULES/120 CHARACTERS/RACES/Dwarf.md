@@ -1,10 +1,9 @@
 ---
 cssclasses: 
 date: 2023-01-29 13:57
-type:
-  - race
+type: race
 book: "[[Players Handbook.pdf]]"
-page: "[[Players Handbook.pdf#page=14|pg. 14]]"
+page: 
 tags:
   - DnD/Rules/Races/Dwarf
   - DnD/Rules

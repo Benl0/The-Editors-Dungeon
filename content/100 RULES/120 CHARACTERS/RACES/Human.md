@@ -2,7 +2,7 @@
 cssclas: 
 date: 2024-02-21 15:23
 type: race
-book: "[[Players Handbook.pdf#page=24]]"
+book: "[[Players Handbook.pdf24]]"
 tags:
   - "#DnD/Rules/Races/Human"
 back: "[[Races]]"
