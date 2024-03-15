@@ -4,7 +4,8 @@ date: 2024-03-10 12:41
 type: note
 book: 
 tags: 
-back:
+back: 
+draft: true
 ---
 Last Modified: (mday:: `= this.file.mday`)
 # Three Pillars by Connie Chang

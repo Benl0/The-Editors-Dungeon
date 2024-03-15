@@ -5,7 +5,8 @@ type: note
 book: 
 tags:
   - TED/Plan
-back:
+back: 
+draft: true
 ---
 Last Modified: (mday:: `= this.file.mday`)
 

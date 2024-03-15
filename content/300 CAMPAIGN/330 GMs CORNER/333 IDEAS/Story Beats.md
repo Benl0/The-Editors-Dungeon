@@ -6,6 +6,7 @@ book:
 tags:
   - TED/Plan
 back: "[[Home]]"
+draft: true
 ---
 Last Modified: (mday:: `= this.file.mday`)
 # Campaign 1 Story Beats

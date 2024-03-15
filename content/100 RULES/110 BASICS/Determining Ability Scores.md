@@ -49,7 +49,9 @@ Depending on your chosen [[Races|race]] and [[Classes|class]], you will have a b
 # Ability Modifiers
 Once all the scores are counted, it’s time to count figure out the Ability Modifiers. This is the little plus or minus that gets added to dice rolls.
 Either use the table below or use the following formula where $x$ is the Ability score:
-$$\frac{x-10}{2}=y$$
+$$
+\frac{x-10}{2}=y
+$$
 
 | **Score** | Modifier | **Score** | Modifier |
 | ----- | -------- | ----- | -------- |
