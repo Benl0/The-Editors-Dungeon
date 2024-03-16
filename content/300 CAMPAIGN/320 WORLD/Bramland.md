@@ -1,5 +1,6 @@
 ---
 date: 2024-02-15 20:57
+publish: true
 type:
   - note
 book: 
@@ -9,7 +10,7 @@ tags:
   - TED/Garde/Countries
 back: "[[Garde]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 # Bramish Empire

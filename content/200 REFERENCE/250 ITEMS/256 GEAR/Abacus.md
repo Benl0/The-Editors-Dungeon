@@ -1,6 +1,7 @@
 ---
 cssclass: 
 date: 2024-03-05
+publish: true
 type: adventuring gear
 book: "[[Players Handbook.pdf]]"
 tags:
@@ -8,7 +9,7 @@ tags:
 back: "[[adventuring gear]]"
 stablock: inline
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 
 ```statblock

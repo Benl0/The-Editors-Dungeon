@@ -1,6 +1,7 @@
 ---
 cssclasses: 
 date: 2023-01-29 13:57
+publish: true
 type: race
 book: "[[Players Handbook.pdf]]"
 page: 
@@ -9,7 +10,7 @@ tags:
   - DnD/Rules
 back: "[[Races]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 # Traits

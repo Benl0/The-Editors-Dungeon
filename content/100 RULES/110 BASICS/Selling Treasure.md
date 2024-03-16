@@ -1,13 +1,14 @@
 ---
 cssclasses: 
 date: 2024-03-03 13:22
+publish: true
 type: note
 book: "[[Players Handbook.pdf135]]"
 tags:
   - DnD/Rules/Equipment
 back: "[[5e Rules MOC]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 # Selling
 On your adventure you will collect rare items and goods to sell.
 

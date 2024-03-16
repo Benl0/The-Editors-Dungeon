@@ -1,5 +1,6 @@
 ---
 date: 2024-02-15 20:30
+publish: true
 type:
   - note
 book: 
@@ -10,7 +11,7 @@ tags:
 ---
 
 Back:: 
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 # Kingdom of Stepmaw

@@ -1,13 +1,14 @@
 ---
 cssclasses: 
 date: 2024-03-02 20:48
+publish: true
 type: note
 draft: false
 tags:
   - DnD/Rules
 back: "[[5e Rules MOC]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 # Armour Class

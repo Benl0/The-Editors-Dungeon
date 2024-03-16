@@ -1,12 +1,13 @@
 ---
 date: 2023-01-28 20:29
+publish: true
 type: note
 tags:
   - DnD/Plugins
 back: "[[Plugins]]"
 link: https://github.com/javalent/fantasy-statblocks
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 

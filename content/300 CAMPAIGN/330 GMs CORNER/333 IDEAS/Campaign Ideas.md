@@ -1,13 +1,13 @@
 ---
 date: 2023-01-26 13:27
+publish: false
 type: note
 author:
   - Ben Mongardini
-draft: true
 ---
 Tags:: #TED/Plan 
 Back:: [[Home]]
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 # Ideas

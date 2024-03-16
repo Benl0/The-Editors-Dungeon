@@ -2,12 +2,12 @@
 cssclasses:
   - dashboard
 date: 2023-01-28 20:11
+publish: true
 type: note
 tags:
   - DnD/Plugins
-back: "[[Home]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+back: [[index|Home]]
 
 ---
 *A non exhaustive list of the plugins being used*

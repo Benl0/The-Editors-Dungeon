@@ -1,13 +1,14 @@
 ---
 cssclasses: 
 date: 2024-03-02 21:15
+publish: true
 type: item
 book: "[[Players Handbook.pdf135]]"
 tags:
   - DnD/Items/Armour
 back: "[[Reference MOC]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 

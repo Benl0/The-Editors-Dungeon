@@ -1,6 +1,7 @@
 ---
 cssclasses: 
 date: 2024-03-05
+publish: true
 type: Magic
 book: "[[Players Handbook.pdf]]"
 tags:
@@ -14,6 +15,7 @@ stablock: inline
 layout: Spells
 source: "SRD"
 source: "SRD"
+publish: true
 type: "magic"
 name: "Absorb Elements"
 image: [[blight.png]]

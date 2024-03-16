@@ -1,5 +1,6 @@
 ---
 date: 2024-02-13 16:47
+publish: true
 type:
   - note
 book: 
@@ -8,7 +9,7 @@ banner: "[[Divine-empire-of-Uld.svg]]"
 ---
 Tags:: 
 Back:: 
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 # Divine Empire of Uld

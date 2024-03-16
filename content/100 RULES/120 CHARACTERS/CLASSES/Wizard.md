@@ -2,6 +2,7 @@
 cssclass:
   - dashboard
 date: 2024-02-24 12:45
+publish: true
 type: class
 book: "[[Players Handbook.pdf106]]"
 tags:
@@ -9,7 +10,7 @@ tags:
   - DnD/Rules
 back: "[[Classes]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 # Stats:

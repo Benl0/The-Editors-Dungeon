@@ -2,6 +2,7 @@
 cssclasses:
   - dashboard
 date: 2024-03-02 13:47
+publish: true
 type: pc
 name: Alaric
 race: "[[Elf]]"
@@ -11,7 +12,7 @@ tags:
   - TED/PC/Alaric
 back:
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 
@@ -20,6 +21,7 @@ Last Modified: (mday:: `= this.file.mday`)
 image: [[Wikilink To Image]]
 name: Alaric
 size: Medium
+publish: true
 type: Elf
 subtype: Wood
 alignment: NG

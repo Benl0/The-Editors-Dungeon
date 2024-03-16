@@ -1,13 +1,14 @@
 ---
 cssclasses: 
 date: 2022-11-07 00:12
+publish: true
 type: note
 draft: false
 tags:
   - DnD/Rules
 back: "[[5e Rules MOC]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 *A bonus applied to certain ability, tools, attack or magic checks. What the character has spent time and energy training in*

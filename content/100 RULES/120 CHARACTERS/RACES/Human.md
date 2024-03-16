@@ -1,13 +1,14 @@
 ---
 cssclas: 
 date: 2024-02-21 15:23
+publish: true
 type: race
 book: "[[Players Handbook.pdf24]]"
 tags:
   - "#DnD/Rules/Races/Human"
 back: "[[Races]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 # Traits

@@ -1,13 +1,14 @@
 ---
 cssclasses: 
 date: 2024-03-07 16:23
+publish: true
 type: pc
 player: alicia
 tags: 
 back: 
 statblock: inline
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 # Notes
 - Sage / Alchemist background

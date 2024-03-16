@@ -1,13 +1,14 @@
 ---
 cssclas: 
 date: 2022-11-05 19:35
+publish: true
 type: note
 book: "[[Players Handbook.pdf8]]"
 tags:
   - DnD/Rules
 back: "[[5e Rules MOC]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 *Step by step on character creation*

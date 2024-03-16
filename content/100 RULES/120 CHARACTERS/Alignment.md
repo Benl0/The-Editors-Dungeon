@@ -1,13 +1,14 @@
 ---
 cssclasses: 
 date: 2024-02-25 13:52
+publish: true
 type: note
 book: "[[Players Handbook.pdf115]]"
 tags:
   - dnd/rules/Background
 back: "[[5e Rules MOC]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 # Alignment

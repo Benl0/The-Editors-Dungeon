@@ -1,13 +1,14 @@
 ---
 cssclasses: 
 date: 2024-03-03 13:11
+publish: true
 type: note
 book: "[[Players Handbook.pdf134]]"
 tags:
   - "#DnD/Rules/Equipment"
 back: "[[5e Rules MOC]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 # Coins
 There are many types of currency in the world, below are the exchange rates between.
 

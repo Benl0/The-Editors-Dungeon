@@ -1,11 +1,12 @@
 ---
 cssclasses: 
 date: 2024-03-03 11:45
+publish: false
 type: note
 tags: 
 back:
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 

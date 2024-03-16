@@ -2,13 +2,14 @@
 cssclasses:
   - dashboard
 date: 2024-03-13 20:57
+publish: true
 type: class
 book: "[[Players Handbook.pdf45]]"
 tags:
   - DnD/Homebrew/Classes/Barbarian
 back:
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 # Stats:
 - ### Hit Points

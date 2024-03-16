@@ -1,5 +1,6 @@
 ---
 date: 2022-12-04 22:45
+publish: true
 type: note
 author:
   - Ben Mongardini
@@ -7,7 +8,7 @@ tags:
   - DnD/Rules/Classes
 back: "[[5e Rules MOC]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 *A class describes a character's skills, abilities, bonuses, advantages and disddvantages.*

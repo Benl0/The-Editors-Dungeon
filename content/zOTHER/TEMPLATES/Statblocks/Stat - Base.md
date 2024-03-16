@@ -3,6 +3,7 @@
 image: [[Wikilink To Image]]
 name: string
 size: string
+publish: true
 type: string
 subtype: string
 alignment: string

@@ -1,14 +1,14 @@
 ---
 cssclasses: 
 date: 2024-03-10 11:01
+publish: false
 type: note
 book: 
 tags:
   - TED/Plan
-back: "[[Home]]"
-draft: true
+back: "[[index]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 # Campaign 1 Story Beats
 [[Campaign Ideas|Reference]]
 

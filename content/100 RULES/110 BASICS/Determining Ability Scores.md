@@ -1,13 +1,14 @@
 ---
 cssclas: 
 date: 2023-01-24 21:43
+publish: true
 type: note
 draft: false
 tags:
   - DnD/Rules
 back: "[[5e Rules MOC]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 # Ability Scores
 
 Ability scores are the big windows on the left hand side of your character sheet. These are:

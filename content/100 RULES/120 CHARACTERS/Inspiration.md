@@ -1,13 +1,14 @@
 ---
 cssclasses: 
 date: 2024-02-25 13:13
+publish: true
 type: note
 book: "[[Players Handbook.pdf118]]"
 tags:
   - DnD/Rules
 back: "[[5e Rules MOC]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 # Inspiration

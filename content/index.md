@@ -1,9 +1,12 @@
 ---
 title: Home
-tags:
-  - Home
+publish: true
 cssclasses:
   - dashboard
+date: 2024-03-15 16:02
+type: moc
+tags:
+  - Home
 ---
 # D&D 5e
 - ## Rules
@@ -21,14 +24,3 @@ cssclasses:
 - ## GM's Corner
 	- [[Campaign Ideas]]
 	- [[Story Beats]]
-
-# Vault Info
-- 🗄️ **Recent file updates** `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(10).file.link)`
-- 📊 **File counts**
-    - All files: `$=dv.pages().length`
-    - Rules: `$=dv.pages('"100 RULES"').length`
-    - Reference: `$=dv.pages('"200 REFERENCE"').length`
-    - Campaigns: `$=dv.pages('"300 CAMPAIGN"').length`
-
-
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.

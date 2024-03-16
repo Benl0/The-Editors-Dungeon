@@ -1,13 +1,14 @@
 ---
 cssclasses: 
 date: 2022-07-17 20:39
+publish: true
 type: note
 book: "[[Players Handbook.pdf6]]"
 tags:
   - DnD/Rules
 back: "[[5e Rules MOC]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 # Dice
 Dice are signified by the letter *d*.
 **d4, d6, d8, d10, d12, d20**

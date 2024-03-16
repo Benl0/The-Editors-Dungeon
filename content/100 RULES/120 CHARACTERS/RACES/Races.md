@@ -1,11 +1,12 @@
 ---
 date: 2022-12-04 22:52
+publish: true
 type: [note]
 author: [Ben Mongardini]
 ---
 Tags:: #DnD/Rules #DnD/Rules/Races 
 Back:: [[5e Rules MOC]] 
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 Page::
 
 ---

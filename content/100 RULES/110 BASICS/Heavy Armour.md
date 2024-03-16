@@ -1,13 +1,14 @@
 ---
 cssclasses: 
 date: 2024-03-02 21:30
+publish: true
 type: item
 book: "[[Players Handbook.pdf136]]"
 tags:
   - DnD/Items/Armour
 back: "[[Reference MOC]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 # Heavy Armour
 *Head to toe protection, with all the weight that comes with that*
 

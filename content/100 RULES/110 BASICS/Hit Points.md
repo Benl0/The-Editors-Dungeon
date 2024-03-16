@@ -1,13 +1,14 @@
 ---
 cssclasses: 
 date: 2022-11-05 20:15
+publish: true
 type: note
 draft: false
 tags:
   - DnD/Rules
 back: "[[5e Rules MOC]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 *How tough a character is in combat.*

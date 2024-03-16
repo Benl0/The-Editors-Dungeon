@@ -1,13 +1,14 @@
 ---
 cssclasses: 
 date: 2023-03-17 09:51
+publish: true
 type: note
 draft: false
 tags:
   - DnD/Rules/Stats
 back: "[[5e Rules MOC]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 # Skill from Ability

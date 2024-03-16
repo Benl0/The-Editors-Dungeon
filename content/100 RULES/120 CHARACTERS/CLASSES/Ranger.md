@@ -2,13 +2,14 @@
 cssclasses:
   - dashboard
 date: 2024-02-27 11:04
+publish: true
 type: class
 book: "[[Players Handbook.pdf83]]"
 tags:
   - DnD/Rules/Classes/Ranger
 back: "[[Classes]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 # Stats:

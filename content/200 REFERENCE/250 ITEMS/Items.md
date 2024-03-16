@@ -4,12 +4,13 @@ cssclasses:
   - cards-1-1
   - cards-cols-3
 date: 2024-03-03 16:05
+publish: true
 type: moc
 tags:
   - DnD/Reference
 back: "[[Reference MOC]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 # Defence items
 
 > [!INFO]- Armour

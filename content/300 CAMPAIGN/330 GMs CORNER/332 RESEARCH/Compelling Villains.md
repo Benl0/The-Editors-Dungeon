@@ -1,13 +1,13 @@
 ---
 cssclasses: 
 date: 2024-03-10 12:41
+publish: false
 type: note
 book: 
 tags: 
-back: 
-draft: true
+back:
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 # Three Pillars by Connie Chang
 ## 1. [Tangible Goals]([https://vm.tiktok.com/ZGeyc9Mx3/](https://vm.tiktok.com/ZGeyc9Mx3/))
 - Strong verb with a greater context

@@ -2,6 +2,7 @@
 
 excalidraw-plugin: parsed
 tags: [excalidraw, dnd/rules]
+publish: true
 type: visual
 
 ---

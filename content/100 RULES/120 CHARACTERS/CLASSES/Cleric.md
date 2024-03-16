@@ -1,5 +1,6 @@
 ---
 date: 2023-01-29 14:52
+publish: true
 type: [class]
 author: [Ben Mongardini]
 book: [Player's Handbook]
@@ -7,7 +8,7 @@ page: 50
 ---
 Tags:: #DnD/Rules/Classes/Cleric 
 Back:: [[Classes]]
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 Page:: Player’s Handbook pg.50
 
 ---

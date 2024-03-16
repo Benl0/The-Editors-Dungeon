@@ -1,11 +1,12 @@
 ---
 date: 2023-01-28 20:27
+publish: true
 type: [npc]
 author: [Ben Mongardini]
 ---
 Tags:: #TED #DnD/Sheet/NPC
 Back:: 
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 Page::
 
 ---
@@ -20,6 +21,7 @@ Jalana Merivaldi ?
 ```statblock
 name: Princess (tbd)
 size: Medium (160cm)
+publish: true
 type: Human
 subtype: Tethyrian
 alignment: Neutral Good

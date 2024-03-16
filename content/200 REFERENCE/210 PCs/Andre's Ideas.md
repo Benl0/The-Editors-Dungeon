@@ -1,6 +1,7 @@
 ---
 cssclasses: 
 date: 2024-03-12 13:22
+publish: true
 type: pc
 player: andre
 tags:
@@ -8,7 +9,7 @@ tags:
 back: 
 statblock: inline
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 - [[Half-Elf]]
 - [[Warlock]]

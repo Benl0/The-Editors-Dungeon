@@ -1,14 +1,14 @@
 ---
 cssclasses: 
 date: 2024-03-10 21:38
+publish: false
 type: note
 book: 
 tags:
   - TED/Plan
-back: 
-draft: true
+back:
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 # Translations
 ## German

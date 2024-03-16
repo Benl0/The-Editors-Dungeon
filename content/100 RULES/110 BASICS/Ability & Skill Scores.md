@@ -2,19 +2,19 @@
 cssclasses: 
 date: 2023-01-22 23:33
 type: note
-draft: false
+publish: true
 tags:
   - DnD/Rules/Stats
 back: "[[5e Rules MOC]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 # Abilities
 Ability scores determine the base potential of a character. They are used as the basis of success for any action performed in the game. The ability may also affect a dice roll, adding, or subtracting, from the total. 
 They are [[Determining Ability Scores|determined]] during character creation and certain choices can change one or more of these values, for the better or worse.
 
-![[Ability Scores.excalidraw]]
+![[Ability Scores.excalidraw.png|800]]
 
 # Skills
 Skills are subclasses of the main 6 abilities and go into more specifisity. For example, if you're attempting to sneak past an enemy, you would roll *Dexterity*, but *Stealth* instead. Skills take the dice modifier from the related ability, but they can be different depending on [[Proficiency Bonus]] and more.

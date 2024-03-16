@@ -2,15 +2,15 @@
 cssclasses:
   - dashboard
 date: 2022-08-28 12:34
-type:
-  - moc
+publish: true
+type: moc
 author:
   - Ben Mongardini
 tags:
   - DnD/Rules
-back: "[[Home]]"
+back: "[[index]]"
 ---
-Last Modified: (mday:: `= this.file.mday`)
+Back: 
 
 ---
 
