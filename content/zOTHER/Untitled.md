@@ -1,11 +1,11 @@
 ---
-cssclass: 
+cssclasses: 
 date: <date>
-publish: true
+publish: false
 type: <category LC>
 book: "[[Players Handbook.pdf]]"
 tags: 
-back:
+back: 
 stablock: inline
 ---
 Back: 

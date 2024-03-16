@@ -1,15 +1,14 @@
 ---
 date: 2023-01-26 13:27
-publish: false
+publish: 
 type: note
 author:
   - Ben Mongardini
----
-Tags:: #TED/Plan 
-Back:: [[Home]]
-Back: 
 
+Tags:
 ---
+Back: [[index|Home]]
+
 # Ideas
 - Rescue king from dragon 
 - Princess less the charge on finding and hiring the adventurers 

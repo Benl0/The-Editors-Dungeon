@@ -1,6 +1,6 @@
 ---
 date: <%tp.date.now("YYYY-MM-DD")%>
-publish: true
+publish: false
 type:
   - session
 tags:
