@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "benl0.github.io/The-Editors-Dungeon/",
-    ignorePatterns: ["private", "templates", ".obsidian", "zOTHER"],
+    ignorePatterns: ["private", "templates", ".obsidian", "zOTHER/"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

@@ -1,5 +1,5 @@
 ---
-cssclasses:
+cssclass:
   - dashboard
 date: 2024-02-27 11:04
 publish: true

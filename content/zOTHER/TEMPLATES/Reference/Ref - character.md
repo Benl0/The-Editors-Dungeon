@@ -1,5 +1,5 @@
 ---
-cssclasses: 
+cssclass: 
 date: <%tp.file.creation_date()%>
 publish: false
 type: <%tp.system.suggester(["PC","NPC","Monster"],["pc","npc","monster"])%>

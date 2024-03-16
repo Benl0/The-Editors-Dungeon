@@ -1,5 +1,5 @@
 ---
-cssclasses:
+cssclass:
   - cards
   - cards-1-1
   - cards-cols-3

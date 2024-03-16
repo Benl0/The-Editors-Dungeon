@@ -1,5 +1,5 @@
 ---
-cssclasses: 
+cssclass: 
 date: 2024-02-25 13:52
 publish: true
 type: note

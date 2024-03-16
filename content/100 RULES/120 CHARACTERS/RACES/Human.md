@@ -1,5 +1,5 @@
 ---
-cssclas: 
+cssclass: 
 date: 2024-02-21 15:23
 publish: true
 type: race

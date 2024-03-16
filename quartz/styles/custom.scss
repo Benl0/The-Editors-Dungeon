@@ -2,6 +2,26 @@
 
 // put your custom CSS here!
 
+.page .center, .page-footer{
+    width: 65vw;
+}
+
+.page .page-header{
+    width: 60vw;
+}
+
+.page > #quartz-body .sidebar{
+    margin: 0rem 1rem;
+}
+
+.page > #quartz-body .sidebar.left{
+    left: 0vw;
+}
+
+.page > #quartz-body .sidebar.right{
+    right: 0vw;
+}
+
 /* Dashboard++ by TfTHacker
 https://medium.com/obsidian-observer/dashboard-a-simple-organization-and-navigation-method-for-obsidian-vaults-2b1982d023a0 */
 /* Updated 2022-02-28 */
@@ -31,14 +51,15 @@ https://medium.com/obsidian-observer/dashboard-a-simple-organization-and-navigat
     padding-bottom: 3px !important;
 }
 
-.dashboard div > ul {
-    list-style: none;
+.dashboard ul {
+    // list-style: none;
     display: flex;
     column-gap: 50px;
     flex-flow: row wrap;
 }
 
-.dashboard div > ul > li {
+.dashboard ul > li {
     min-width: 250px;
     width: 15%;
+    padding: 0.5%;
 }

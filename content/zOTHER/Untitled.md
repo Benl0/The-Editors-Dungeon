@@ -1,5 +1,5 @@
 ---
-cssclasses: 
+cssclass: 
 date: <date>
 publish: false
 type: <category LC>
