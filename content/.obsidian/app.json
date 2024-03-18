@@ -1,0 +1,22 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "rightToLeft": false,
+  "showLineNumber": true,
+  "strictLineBreaks": false,
+  "readableLineLength": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "zOTHER/IMAGES",
+  "userIgnoreFilters": [
+    "docs/",
+    "node_modules/",
+    "public/",
+    "quartz/",
+    "README",
+    "CODE_OF_CONDUCT",
+    "index.d.ts",
+    ".git/",
+    ".github/",
+    ".quartz-cache/"
+  ]
+}

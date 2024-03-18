@@ -1,0 +1,46 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "zOTHER/TEMPLATES",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "200 REFERENCE/210 PCs",
+      "template": "zOTHER/TEMPLATES/Reference/Ref - character.md"
+    },
+    {
+      "folder": "200 REFERENCE/220 NPCs",
+      "template": "zOTHER/TEMPLATES/Reference/Ref - character.md"
+    },
+    {
+      "folder": "200 REFERENCE",
+      "template": "zOTHER/TEMPLATES/Reference/Ref - item.md"
+    },
+    {
+      "folder": "/",
+      "template": "zOTHER/TEMPLATES/YAML Template.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "zOTHER/TEMPLATES/Notes Template.md",
+    "zOTHER/TEMPLATES/YAML Template.md",
+    "zOTHER/TEMPLATES/MOC Template.md",
+    "zOTHER/TEMPLATES/Statblock Template.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

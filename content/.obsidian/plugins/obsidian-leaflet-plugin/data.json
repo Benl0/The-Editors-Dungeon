@@ -1,0 +1,98 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Garde",
+      "lastAccessed": 1708947435792,
+      "markers": [
+        {
+          "id": "ID_ca09487b3aeb",
+          "type": "default",
+          "loc": [
+            -1.2448577880859375,
+            7.194503408477321
+          ],
+          "link": "Stepmaw#Allas",
+          "layer": "%5B%5BGarde%20Main%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Capital of Stepmaw",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "300 CAMPAIGN/320 WORLD/Garde.md"
+      ]
+    },
+    {
+      "id": "stepmaw-allas",
+      "lastAccessed": 1709549856218,
+      "markers": [
+        {
+          "id": "ID_890b9a8bf9a8",
+          "type": "default",
+          "loc": [
+            -4.640625,
+            6.070440739740821
+          ],
+          "link": "Stepmaw#The Bowls",
+          "layer": "%5B%5Ballas.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.743023107517882,
+            0.5925187032418953
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "300 CAMPAIGN/320 WORLD/Stepmaw.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.2",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 2
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c,d"
+}

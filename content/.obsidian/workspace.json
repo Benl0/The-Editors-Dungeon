@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "0cfd46cb24f5d765",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ad1b5a94bef0826",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e15e576468db60a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbd2f542abcfcbf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "050e189a6595abe0",
+        "type": "tabs",
+        "dimension": 57.55208333333334,
+        "children": [
+          {
+            "id": "8c9df43958419abe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "039590794556c629",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29a5ea283bbf510c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "145a43bc031f6232",
+        "type": "tabs",
+        "dimension": 42.44791666666666,
+        "children": [
+          {
+            "id": "c16a9d87cecb2f6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ddf27e729b920438",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          },
+          {
+            "id": "a8f09fb03038884c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb7a0a13f63b5faf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "56452db25bc315b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3455397d08c68a43",
+        "type": "tabs",
+        "dimension": 50.347222222222214,
+        "children": [
+          {
+            "id": "19e08e24d351230f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "index.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224427,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "2f22dd1bd23cf437",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "33a26ca1ee01df75",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f62bded77e4e3228",
+        "type": "tabs",
+        "dimension": 49.652777777777786,
+        "children": [
+          {
+            "id": "8aa84a02c41c1fde",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "8c9df43958419abe",
+  "lastOpenFiles": [
+    "100 RULES/5e Rules MOC.md",
+    "index.md",
+    "300 CAMPAIGN/330 GMs CORNER/333 IDEAS/Campaign Ideas.md",
+    "zOTHER/TEMPLATES/Reference/Ref - item.md",
+    "zOTHER/TEMPLATES/Reference/Ref - character.md",
+    "zOTHER/TEMPLATES/Statblocks/Stat - Base.md",
+    "zOTHER/TEMPLATES/Statblocks/Stat - Spell.md",
+    "zOTHER/TEMPLATES/Statblocks/Stat - Character Full.md",
+    "zOTHER/TEMPLATES/Statblocks/Stat - Character Small.md",
+    "zOTHER/TEMPLATES/Statblocks/Stat - Item.md",
+    "zOTHER/TEMPLATES/Class Template.md",
+    "zOTHER/TEMPLATES/Race Template.md",
+    "zOTHER/TEMPLATES/Session Template.md",
+    "zOTHER/TEMPLATES/YAML Template.md",
+    "zOTHER/Untitled.md",
+    "200 REFERENCE/Reference MOC.md",
+    "300 CAMPAIGN/330 GMs CORNER/333 IDEAS/Story Beats.md",
+    "300 CAMPAIGN/330 GMs CORNER/333 IDEAS/Place Name Ideas.md",
+    "300 CAMPAIGN/330 GMs CORNER/332 RESEARCH/Compelling Villains.md",
+    "zOTHER/PLUGINS/Fantasy Statblocks.md",
+    "zOTHER/PLUGINS/Plugins.md",
+    "zOTHER/PLUGINS/Callouts.md",
+    "zOTHER/CHARACTER SHEETS/Character Details (Optional) - Form Fillable.pdf",
+    "100 RULES/110 BASICS/Ability & Skill Scores.md",
+    "zOTHER/EXCALIDRAW/Ability Scores.excalidraw.md",
+    "zOTHER/EXCALIDRAW/Ability Scores.excalidraw.png",
+    "content/index.md",
+    "content/100 RULES/5e Rules MOC.md",
+    "zOTHER/IMAGES/MAPS/Garde Clean.jpg",
+    "100 RULES/190 BOOKS/191 RULES/Players Handbook.pdf",
+    "200 REFERENCE/210 PCs/Andre CS.pdf",
+    "200 REFERENCE/210 PCs/CharacterSheet_3Pgs_ Complete.pdf",
+    "zOTHER/CHARACTER SHEETS/CharacterSheet_3Pgs_ Complete.pdf",
+    "zOTHER/IMAGES/MAPS/zOLD/Garde v1.png",
+    "100 RULES/190 BOOKS/191 RULES/Xanathars Guide to Everything.pdf",
+    "100 RULES/190 BOOKS/192 CAMPAIGNS/Wayfinders Guide to Eberron.pdf",
+    "100 RULES/190 BOOKS/193 REFERENCE/Sword Coast Adventurers Guide.pdf",
+    "100 RULES/190 BOOKS/Sword Coast Adventurers Guide.pdf",
+    "100 RULES/190 BOOKS/192 CAMPAIGNS/Sword Coast Adventurers Guide.pdf",
+    "zOTHER/IMAGES/MAPS/Garde Full.jpg",
+    "zOTHER/IMAGES/MAPS/zOLD/Garde v1.svg",
+    "zOTHER/IMAGES/MAPS/zOLD/allas.png",
+    "zOTHER/IMAGES/MAPS/zOLD/brample.png",
+    "zOTHER/IMAGES/MAPS/Garde Key locations.jpg",
+    "zOTHER/IMAGES/ITEMS/armour.png",
+    "zOTHER/IMAGES/charisma.png"
+  ]
+}
