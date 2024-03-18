@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
+                "file": "300 CAMPAIGN/320 WORLD/Garde.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "300 CAMPAIGN/320 WORLD/Garde.md"
               }
             }
           },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "300 CAMPAIGN/320 WORLD/Garde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "300 CAMPAIGN/320 WORLD/Garde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "300 CAMPAIGN/320 WORLD/Garde.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,10 +227,33 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "8c9df43958419abe",
+  "active": "e15e576468db60a3",
   "lastOpenFiles": [
-    "100 RULES/5e Rules MOC.md",
+    "300 CAMPAIGN/320 WORLD/Verlust.md",
+    "300 CAMPAIGN/320 WORLD/Garde.md",
+    "300 CAMPAIGN/320 WORLD/Liebe.md",
+    "zOTHER/PLUGINS/Callouts.md",
+    "zOTHER/TEMPLATES/YAML - campaign.md",
+    "zOTHER/TEMPLATES/YAML - base.md",
+    "zOTHER/IMAGES/MAPS/gigurs hollow.jpg",
+    "zOTHER/IMAGES/MAPS/scarred archipelago.jpg",
+    "zOTHER/IMAGES/MAPS/gathela.jpg",
+    "zOTHER/IMAGES/MAPS/enos.jpg",
+    "zOTHER/IMAGES/MAPS/uld.jpg",
+    "zOTHER/IMAGES/MAPS/liebe.jpg",
+    "zOTHER/IMAGES/MAPS/leiden.jpg",
+    "zOTHER/IMAGES/MAPS/verlust.jpg.~tmp",
+    "zOTHER/IMAGES/MAPS/verlust.jpg",
+    "zOTHER/PLUGINS/Plugins.md",
     "index.md",
+    "100 RULES/110 BASICS/Determining Ability Scores.md",
+    "100 RULES/110 BASICS/Ability & Skill Scores.md",
+    "100 RULES/110 BASICS/Proficiency Bonus.md",
+    "100 RULES/110 BASICS/Dice.md",
+    "100 RULES/110 BASICS/Armour.md",
+    "100 RULES/120 CHARACTERS/CLASSES/Warlock.md",
+    "100 RULES/5e Rules MOC.md",
+    "zOTHER/Untitled.md",
     "300 CAMPAIGN/330 GMs CORNER/333 IDEAS/Campaign Ideas.md",
     "zOTHER/TEMPLATES/Reference/Ref - item.md",
     "zOTHER/TEMPLATES/Reference/Ref - character.md",
@@ -241,39 +264,16 @@
     "zOTHER/TEMPLATES/Statblocks/Stat - Item.md",
     "zOTHER/TEMPLATES/Class Template.md",
     "zOTHER/TEMPLATES/Race Template.md",
-    "zOTHER/TEMPLATES/Session Template.md",
-    "zOTHER/TEMPLATES/YAML Template.md",
-    "zOTHER/Untitled.md",
-    "200 REFERENCE/Reference MOC.md",
-    "300 CAMPAIGN/330 GMs CORNER/333 IDEAS/Story Beats.md",
-    "300 CAMPAIGN/330 GMs CORNER/333 IDEAS/Place Name Ideas.md",
-    "300 CAMPAIGN/330 GMs CORNER/332 RESEARCH/Compelling Villains.md",
-    "zOTHER/PLUGINS/Fantasy Statblocks.md",
-    "zOTHER/PLUGINS/Plugins.md",
-    "zOTHER/PLUGINS/Callouts.md",
     "zOTHER/CHARACTER SHEETS/Character Details (Optional) - Form Fillable.pdf",
-    "100 RULES/110 BASICS/Ability & Skill Scores.md",
-    "zOTHER/EXCALIDRAW/Ability Scores.excalidraw.md",
     "zOTHER/EXCALIDRAW/Ability Scores.excalidraw.png",
-    "content/index.md",
-    "content/100 RULES/5e Rules MOC.md",
     "zOTHER/IMAGES/MAPS/Garde Clean.jpg",
     "100 RULES/190 BOOKS/191 RULES/Players Handbook.pdf",
     "200 REFERENCE/210 PCs/Andre CS.pdf",
     "200 REFERENCE/210 PCs/CharacterSheet_3Pgs_ Complete.pdf",
     "zOTHER/CHARACTER SHEETS/CharacterSheet_3Pgs_ Complete.pdf",
-    "zOTHER/IMAGES/MAPS/zOLD/Garde v1.png",
     "100 RULES/190 BOOKS/191 RULES/Xanathars Guide to Everything.pdf",
     "100 RULES/190 BOOKS/192 CAMPAIGNS/Wayfinders Guide to Eberron.pdf",
     "100 RULES/190 BOOKS/193 REFERENCE/Sword Coast Adventurers Guide.pdf",
-    "100 RULES/190 BOOKS/Sword Coast Adventurers Guide.pdf",
-    "100 RULES/190 BOOKS/192 CAMPAIGNS/Sword Coast Adventurers Guide.pdf",
-    "zOTHER/IMAGES/MAPS/Garde Full.jpg",
-    "zOTHER/IMAGES/MAPS/zOLD/Garde v1.svg",
-    "zOTHER/IMAGES/MAPS/zOLD/allas.png",
-    "zOTHER/IMAGES/MAPS/zOLD/brample.png",
-    "zOTHER/IMAGES/MAPS/Garde Key locations.jpg",
-    "zOTHER/IMAGES/ITEMS/armour.png",
-    "zOTHER/IMAGES/charisma.png"
+    "100 RULES/190 BOOKS/Sword Coast Adventurers Guide.pdf"
   ]
 }

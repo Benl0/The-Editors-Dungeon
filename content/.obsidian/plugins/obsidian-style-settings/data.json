@@ -76,7 +76,7 @@
   "minimal-style@@metadata-label-width": 5,
   "minimal-style@@folding-offset": 32,
   "minimal-style@@maximize-tables-off": "maximize-tables-off",
-  "minimal-style@@callouts-style": "callouts-outlined",
+  "minimal-style@@callouts-style": "callouts-default",
   "minimal-style@@callout-blend-mode": "var(--highlight-mix-blend-mode)",
   "minimal-style@@h1-color@@dark": "#F31DFF",
   "minimal-style@@h1-size": "1.75em",

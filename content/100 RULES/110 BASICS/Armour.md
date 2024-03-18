@@ -23,7 +23,7 @@ In D&D 5e, armour lets you increase your [[Armour Class|AC]] by providing a high
 - Only one shield may be equipped at one time
 - Using a shield increase AC by 2
 # Armour Types
-- Light: retaining mobility while offering some protection.
-- Medium: a balance, offering a little more protection.
-- Heavy: full protection, requiring immense strength to wear.
+- [[Light Armour]]: retaining mobility while offering some protection.
+- [[Medium Armour]]: a balance, offering a little more protection.
+- [[Heavy Armour]]: full protection, requiring immense strength to wear.
 

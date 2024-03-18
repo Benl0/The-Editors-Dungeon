@@ -1,18 +1,18 @@
 ---
-cssclass: 
-date: 2022-11-07 00:12
+title: 
 publish: true
+cssclasses: 
+date: 2024-03-18 12:13
 type: note
-draft: false
+book: "[[Players Handbook.pdf]]"
+page: 12
 tags:
   - DnD/Rules
-back: "[[5e Rules MOC]]"
 ---
-Back: 
-
----
-*A bonus applied to certain ability, tools, attack or magic checks. What the character has spent time and energy training in*
+##### Back: [[index|Home]] || Book: Player's Handbook || Page:: 12
 # Proficiencies
+*A bonus applied to certain ability, tools, attack or magic checks. What the character has spent time and energy training in*
+
 Proficiencies are determined by a character's [[Races]], [[Classes]] and [[Backgrounds]] (their story). As the name implies, it shows what a character is particularly good at. These can be Weapons, Saving Throws or Skills and Tools.
 ## Proficiency Modifier
 Your proficiency modifier is noted down in your class table. Starting at +2, it will increase as you level up.

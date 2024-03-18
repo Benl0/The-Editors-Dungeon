@@ -1,17 +1,17 @@
 ---
-cssclass: 
-date: 2023-01-24 21:43
+title: 
 publish: true
+cssclasses: 
+date: 2024-03-18 12:13
 type: note
-draft: false
+book: "[[Players Handbook.pdf]]"
+page: 13
 tags:
-  - DnD/Rules
-back: "[[5e Rules MOC]]"
+  - DnD/Rules/Stats
 ---
-Back: 
+##### Back: [[index|Home]] || Book: Player's Handbook || Page:: 13
 # Ability Scores
-
-Ability scores are the big windows on the left hand side of your character sheet. These are:
+[[Ability & Skill Scores#Abilities|Ability scores]] are the big windows on the left hand side of your character sheet. These are:
 - Strength
 - Dexterity
 - Constitution
@@ -37,10 +37,10 @@ Example dice rolls:
 | *1*    | *1*    | *5*    | *6*    | **12** |
 
 From here, you can either: 
-1. Assign at random
+1. Assign scores at random
 2. Choose where they go
 
-> [!TIP]+ Tip
+> [!TIP]- Rolling the dice
 > While having randomly assigned ability scores might be interesting, it may also go against your plans for your character. When in doubt, choose your abilities
 ### Pre-Determined
 Alternatively, if the randomness of dice rolling not appealing, the following numbers can be used as ability scores wherever you like:

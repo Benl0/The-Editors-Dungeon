@@ -1,14 +1,14 @@
 ---
-cssclass: 
+cssclasses: 
 date: 2022-07-17 20:39
 publish: true
 type: note
-book: "[[Players Handbook.pdf6]]"
+book: "[[Players Handbook.pdf]]"
+page: 6
 tags:
   - DnD/Rules
-back: "[[5e Rules MOC]]"
 ---
-Back: 
+##### Back: [[index|Home]] || Book: Player's Handbook || Page:: 6
 # Dice
 Dice are signified by the letter *d*.
 **d4, d6, d8, d10, d12, d20**

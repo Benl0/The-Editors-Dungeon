@@ -6,17 +6,30 @@ type: note
 tags: 
 back:
 ---
-Back: 
 
----
 
-> [!FAQ] How do I use this?
-> FAQ
+> [!NOTE]
 
-> [!WARNING] Keep in mind
-> WARNING
+> [!ABSTRACT] Abstract, Summary or TLDR
 
-> [!TIP] Tip
-> TIP
+> [!INFO] Info or Todo
+
+> [!TIP] Tip, Hint or Important
+
+> [!SUCCESS] Success, Check or Done
+
+> [!QUESTION] Question, Help or FAQ
+
+> [!WARNING] Warning, Caution or Attention
+
+> [!FAILURE] Failure, Fail or Missing
+
+> [!DANGER] Danger or Error
+
+> [!BUG]
+
+> [!EXAMPLE]
+
+> [!QUOTE] Quote or Cite
 
 

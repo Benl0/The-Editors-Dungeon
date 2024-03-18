@@ -1,36 +1,8 @@
 {
   "mapMarkers": [
     {
-      "id": "Garde",
-      "lastAccessed": 1708947435792,
-      "markers": [
-        {
-          "id": "ID_ca09487b3aeb",
-          "type": "default",
-          "loc": [
-            -1.2448577880859375,
-            7.194503408477321
-          ],
-          "link": "Stepmaw#Allas",
-          "layer": "%5B%5BGarde%20Main%20Map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Capital of Stepmaw",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "300 CAMPAIGN/320 WORLD/Garde.md"
-      ]
-    },
-    {
       "id": "stepmaw-allas",
-      "lastAccessed": 1709549856218,
+      "lastAccessed": 1710797237813,
       "markers": [
         {
           "id": "ID_890b9a8bf9a8",
@@ -55,8 +27,51 @@
       ],
       "overlays": [],
       "shapes": [],
+      "files": []
+    },
+    {
+      "id": "Garde",
+      "lastAccessed": 1710797237813,
+      "markers": [
+        {
+          "id": "ID_f929a8daca1b",
+          "type": "default",
+          "loc": [
+            -1.050933837890625,
+            3.1279296875
+          ],
+          "link": "verlust",
+          "layer": "%5B%5BGarde%20Clean.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a7bba184b7a",
+          "type": "default",
+          "loc": [
+            -0.682159423828125,
+            3.0556640625
+          ],
+          "link": "Verlust#Haven",
+          "layer": "%5B%5BGarde%20Clean.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
       "files": [
-        "300 CAMPAIGN/320 WORLD/Stepmaw.md"
+        "300 CAMPAIGN/320 WORLD/Garde.md"
       ]
     }
   ],
