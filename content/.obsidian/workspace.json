@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "300 CAMPAIGN/320 WORLD/Garde.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -227,10 +227,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "8c9df43958419abe",
+  "active": "e15e576468db60a3",
   "lastOpenFiles": [
-    "300 CAMPAIGN/320 WORLD/Verlust.md",
+    "index.md",
+    "200 REFERENCE/240 SPELLS/Absorb Elements.md",
     "300 CAMPAIGN/320 WORLD/Garde.md",
+    "300 CAMPAIGN/320 WORLD/Verlust.md",
     "300 CAMPAIGN/320 WORLD/Liebe.md",
     "zOTHER/PLUGINS/Callouts.md",
     "zOTHER/TEMPLATES/YAML - campaign.md",
@@ -245,7 +247,6 @@
     "zOTHER/IMAGES/MAPS/verlust.jpg.~tmp",
     "IMAGES/MAPS/verlust.jpg",
     "zOTHER/PLUGINS/Plugins.md",
-    "index.md",
     "100 RULES/110 BASICS/Determining Ability Scores.md",
     "100 RULES/110 BASICS/Ability & Skill Scores.md",
     "100 RULES/110 BASICS/Proficiency Bonus.md",
@@ -263,7 +264,6 @@
     "zOTHER/TEMPLATES/Statblocks/Stat - Character Small.md",
     "zOTHER/TEMPLATES/Statblocks/Stat - Item.md",
     "zOTHER/TEMPLATES/Class Template.md",
-    "zOTHER/TEMPLATES/Race Template.md",
     "zOTHER/CHARACTER SHEETS/Character Details (Optional) - Form Fillable.pdf",
     "zOTHER/EXCALIDRAW/Ability Scores.excalidraw.png",
     "IMAGES/MAPS/Garde Clean.jpg",

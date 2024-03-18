@@ -22,17 +22,17 @@ Magic permeates the very soul of Garde. From the buzzing mayfly, to the howling 
 ## Kingdoms
 Many kingdoms, city states and tribes have risen and fallen in Garde. In the modern-era, these are what remain.
 
-| Name           | Type            | Capital        |
-| -------------- | --------------- | -------------- |
-| [[Verlust]]    | Kingdom         | Haven          |
-| [[Liebe]]      | Kingdom         | Bram           |
-| [[Uld]]        | War Party       | Uld Town       |
-| [[Enos]]       | Kingdom         | Aqiel          |
-| [[Gathela]]    | Kingdom         | Barazar's Keep |
-| [[Gob]]        | Tribe           | N/A            |
-| [[Logue Town]] | Fishing town    | N/A            |
-| [[Kalt]]       | Wildlands tribe | N/A            |
-| [[Leiden]]     | Fortress        | N/A            |
+| Name           | Type            | Capital        | General population        |
+| -------------- | --------------- | -------------- | ------------------------- |
+| [[Verlust]]    | Kingdom         | Haven          | Mixed                     |
+| [[Liebe]]      | Kingdom         | Bram           | Mixed                     |
+| [[Uld]]        | War Party       | Uld Town       | Mostly [[Orc]]            |
+| [[Enos]]       | Kingdom         | Aqiel          | Mostly [[Elf]]            |
+| [[Gathela]]    | Kingdom         | Barazar's Keep | Most [[Dwarf\|Dwarves]]   |
+| [[Gob]]        | Tribe           | N/A            | Small majority [[Kobold]] |
+| [[Logue Town]] | Fishing town    | N/A            | Mixed                     |
+| [[Kalt]]       | Wildlands tribe | N/A            | Mixed                     |
+| [[Leiden]]     | Fortress        | N/A            | Unknown                   |
 
 ## Landmarks and Regions
 
