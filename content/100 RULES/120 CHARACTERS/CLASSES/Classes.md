@@ -1,17 +1,19 @@
 ---
-date: 2022-12-04 22:45
+title: 
 publish: true
-type: note
-author:
-  - Ben Mongardini
+cssclasses: 
+date: 2024-03-19 22:22
+type: moc
+book: 
+page: 
 tags:
-  - DnD/Rules/Classes
-back: "[[5e Rules MOC]]"
+  - DnD/Classes
 ---
-Back: 
+##### Back: [[index|Home]]
+*A class describes a character's skills, abilities, bonuses, advantages and disadvantages.*
 
----
-*A class describes a character's skills, abilities, bonuses, advantages and disddvantages.*
+> [!missing]+ This page is incomplete
+> I will be adding the rest of the classes as I go on
 
 # Player's Handbook
 | Class         | Description                                                                                                                           | Hit Die | Primary Ability      | Saving Throw proficiency | Armour & Weapon proficiency                                                                                                                      |

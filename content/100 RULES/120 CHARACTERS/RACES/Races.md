@@ -1,35 +1,31 @@
 ---
-date: 2022-12-04 22:52
+title: 
 publish: true
-type: [note]
-author: [Ben Mongardini]
+cssclasses: 
+date: 2024-03-19 22:22
+type: note
+book: 
+page: 
+tags:
+  - DnD/Races
 ---
-Tags:: #DnD/Rules #DnD/Rules/Races 
-Back:: [[5e Rules MOC]] 
-Back: 
-Page::
+##### Back: [[index|Home]]
+*A race describes a character's born self, from Human to Orc and much more.*
 
----
-*A Species describes a character's born self, from Human to Orc and much more.*
-
-# Choosing a Species
-Things to keep in mind (traits):
-- Ability Score Increases
-- Age
-- Alignment
-- Size
-- Speed
-- Languages
-- Sub-species
+> [!missing]+ This page is incomplete
+> I will be adding the rest of the races as I go on
 
 # Player's Handbook
-- [[Dwarf]]
-- [[Elf]]
-- [[Halfling]]
-- [[Human]]
-- [[Dragonborn]]
-- [[Gnome]]
-- [[Half-Elf]]
-- [[Half-Orc]]
-- [[Tiefling]]
+
+| Race           | Sub-Races                    | Source                                            |
+| -------------- | ---------------------------- | ------------------------------------------------- |
+| [[Dwarf]]      | Hill Dwarf<br>Mountain Dwarf | [[Players Handbook.pdf\|Player's Handbook Pg 18]] |
+| [[Elf]]        |                              |                                                   |
+| [[Halfling]]   |                              |                                                   |
+| [[Human]]      |                              |                                                   |
+| [[Dragonborn]] |                              |                                                   |
+| [[Gnome]]      |                              |                                                   |
+| [[Half-Elf]]   |                              |                                                   |
+| [[Half-Orc]]   |                              |                                                   |
+| [[Tiefling]]   |                              |                                                   |
 

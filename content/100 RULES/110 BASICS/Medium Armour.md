@@ -24,4 +24,4 @@ Back:
 | Breastplate | 400       | 14 + Dex | -        | -            | 20          |
 | Halfplate   | 750       | 15 + Dex | -        | Disadvantage | 40          |
 
-> [!WARNING] Medium armour allows adding your [[Ability & Skill Scores|Dexterity modifier]] at a maximum of 2
+> [!WARNING] Medium armour allows adding your [[Abilities|Dexterity modifier]] at a maximum of 2

@@ -23,5 +23,5 @@ Back:
 > Refer to the [[Armour]] rules for how to use this note
 
 > [!WARNING] Keep in mind
-> - You cannot add your [[Ability & Skill Scores|Dexterity modifier]] to heavy armour
-> - If you do not meet the armour's [[Ability & Skill Scores|Strength requirement]], your speed will be reduced by 10
+> - You cannot add your [[Abilities|Dexterity modifier]] to heavy armour
+> - If you do not meet the armour's [[Abilities|Strength requirement]], your speed will be reduced by 10

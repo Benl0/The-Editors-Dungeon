@@ -1,12 +1,13 @@
 ---
-cssclass:
+cssclasses:
   - dashboard
 date: 2024-02-26 15:39
 publish: true
 type: class
 link: https://www.gmbinder.com/share/-L8mx-EmCAJZL_cAw8Xx
 tags:
-  - DnD/Homebrew/Classes/Scholar
+  - DnD/Classes/Scholar
+  - DnD/Homebrew
 back: "[[Classes]]"
 ---
 Back: 

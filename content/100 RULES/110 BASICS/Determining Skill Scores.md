@@ -12,7 +12,7 @@ Back:
 
 ---
 # Skill from Ability
-[[Ability & Skill Scores#Skills|Skill]] modifiers are first derived from their governing [[Ability & Skill Scores#Abilities|ability]]. That is to say, if a character has +3 to *Strength*, they also receive +3 to *Athletics*. The same goes for negative modifiers.
+[[Abilities#Skills|Skill]] modifiers are first derived from their governing [[Abilities#Abilities|ability]]. That is to say, if a character has +3 to *Strength*, they also receive +3 to *Athletics*. The same goes for negative modifiers.
 # Proficiency
 Then finally it's [[Proficiency Bonus]].
 

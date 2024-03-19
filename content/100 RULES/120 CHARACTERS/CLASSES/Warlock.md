@@ -7,7 +7,7 @@ type: class
 book: "[[Players Handbook.pdf]]"
 page: 105
 tags:
-  - DnD/Rules/Classes/Warlock
+  - DnD/Classes/Warlock
 back: "[[Classes]]"
 ---
 Back: 

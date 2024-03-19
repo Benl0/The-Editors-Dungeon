@@ -18,7 +18,8 @@ tags:
 - ## Basics
 	- [[Dice]]
 	- [[Proficiency Bonus]]
-	- [[Ability & Skill Scores]]
+	- [[Abilities]]
+	- [[Skills]]
 	- [[Determining Ability Scores]]
 	- [[Determining Skill Scores]]
 	- [[Levels]]

@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 CAMPAIGN/320 WORLD/Garde.md",
+                "file": "100 RULES/120 CHARACTERS/RACES/Races.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c966acf89de6955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 RULES/120 CHARACTERS/CLASSES/Classes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46f62aaaf43b4367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1a9df88a3e090ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 RULES/110 BASICS/Abilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300 CAMPAIGN/320 WORLD/Garde.md"
+                "file": "100 RULES/120 CHARACTERS/RACES/Races.md"
               }
             }
           },
@@ -100,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 CAMPAIGN/320 WORLD/Garde.md",
+                "file": "100 RULES/120 CHARACTERS/RACES/Races.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,13 +153,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "300 CAMPAIGN/320 WORLD/Garde.md",
+                "file": "100 RULES/120 CHARACTERS/RACES/Races.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "300 CAMPAIGN/320 WORLD/Garde.md",
+                "file": "100 RULES/120 CHARACTERS/RACES/Races.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,10 +245,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 331.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -223,18 +262,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
   "active": "e15e576468db60a3",
   "lastOpenFiles": [
+    "100 RULES/120 CHARACTERS/RACES/Dwarf.md",
+    "200 REFERENCE/240 SPELLS/Darkvision.md",
+    "100 RULES/120 CHARACTERS/CLASSES/Classes.md",
     "index.md",
-    "200 REFERENCE/240 SPELLS/Absorb Elements.md",
+    "100 RULES/110 BASICS/Abilities.md",
+    "Skills.md",
+    "100 RULES/110 BASICS/Determining Ability Scores.md",
+    "zOTHER/PLUGINS/Callouts.md",
+    "100 RULES/120 CHARACTERS/RACES/Races.md",
+    "zOTHER/TEMPLATES/Race Template.md",
+    "100 RULES/120 CHARACTERS/CLASSES/Barbarian.md",
+    "100 RULES/120 CHARACTERS/CLASSES/Scholar.md",
     "300 CAMPAIGN/320 WORLD/Garde.md",
+    "200 REFERENCE/240 SPELLS/Absorb Elements.md",
     "300 CAMPAIGN/320 WORLD/Verlust.md",
     "300 CAMPAIGN/320 WORLD/Liebe.md",
-    "zOTHER/PLUGINS/Callouts.md",
     "zOTHER/TEMPLATES/YAML - campaign.md",
     "zOTHER/TEMPLATES/YAML - base.md",
     "IMAGES/MAPS/gigurs hollow.jpg",
@@ -247,8 +295,6 @@
     "zOTHER/IMAGES/MAPS/verlust.jpg.~tmp",
     "IMAGES/MAPS/verlust.jpg",
     "zOTHER/PLUGINS/Plugins.md",
-    "100 RULES/110 BASICS/Determining Ability Scores.md",
-    "100 RULES/110 BASICS/Ability & Skill Scores.md",
     "100 RULES/110 BASICS/Proficiency Bonus.md",
     "100 RULES/110 BASICS/Dice.md",
     "100 RULES/110 BASICS/Armour.md",
@@ -256,14 +302,6 @@
     "100 RULES/5e Rules MOC.md",
     "zOTHER/Untitled.md",
     "300 CAMPAIGN/330 GMs CORNER/333 IDEAS/Campaign Ideas.md",
-    "zOTHER/TEMPLATES/Reference/Ref - item.md",
-    "zOTHER/TEMPLATES/Reference/Ref - character.md",
-    "zOTHER/TEMPLATES/Statblocks/Stat - Base.md",
-    "zOTHER/TEMPLATES/Statblocks/Stat - Spell.md",
-    "zOTHER/TEMPLATES/Statblocks/Stat - Character Full.md",
-    "zOTHER/TEMPLATES/Statblocks/Stat - Character Small.md",
-    "zOTHER/TEMPLATES/Statblocks/Stat - Item.md",
-    "zOTHER/TEMPLATES/Class Template.md",
     "zOTHER/CHARACTER SHEETS/Character Details (Optional) - Form Fillable.pdf",
     "zOTHER/EXCALIDRAW/Ability Scores.excalidraw.png",
     "IMAGES/MAPS/Garde Clean.jpg",

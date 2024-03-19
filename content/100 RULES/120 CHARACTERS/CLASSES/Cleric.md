@@ -6,7 +6,7 @@ author: [Ben Mongardini]
 book: [Player's Handbook]
 page: 50
 ---
-Tags:: #DnD/Rules/Classes/Cleric 
+Tags:: #DnD/Classes/Cleric 
 Back:: [[Classes]]
 Back: 
 Page:: Player’s Handbook pg.50
