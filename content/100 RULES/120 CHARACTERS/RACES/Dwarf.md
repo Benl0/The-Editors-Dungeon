@@ -39,12 +39,14 @@ tags:
 # Sub-races
 Choose one of these as your origin.
 ## Hill Dwarf
+
 | Type              | Effect/Description           |
 | ----------------- | ---------------------------- |
 | Wisdom            | +1                           |
 | Dwarven Toughness | +1 to HP Max for every level |
 
 ## Mountain Dwarf
+
 | Type     | Effect/Description |
 | -------- | ------------------ |
 | Strength | +2                 |

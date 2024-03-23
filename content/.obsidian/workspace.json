@@ -13,45 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 RULES/120 CHARACTERS/RACES/Races.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c966acf89de6955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 RULES/120 CHARACTERS/CLASSES/Classes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46f62aaaf43b4367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
+                "file": "100 RULES/120 CHARACTERS/RACES/Elf.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "b1a9df88a3e090ad",
+            "id": "87fd1578c92d5498",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "100 RULES/110 BASICS/Abilities.md",
-                "mode": "source",
-                "source": false
+                "file": "100 RULES/190 BOOKS/191 RULES/Players Handbook.pdf"
               }
             }
           }
@@ -126,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 RULES/120 CHARACTERS/RACES/Races.md"
+                "file": "100 RULES/120 CHARACTERS/RACES/Elf.md"
               }
             }
           },
@@ -136,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 RULES/120 CHARACTERS/RACES/Races.md",
+                "file": "100 RULES/120 CHARACTERS/RACES/Elf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 RULES/120 CHARACTERS/RACES/Races.md",
+                "file": "100 RULES/120 CHARACTERS/RACES/Elf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100 RULES/120 CHARACTERS/RACES/Races.md",
+                "file": "100 RULES/120 CHARACTERS/RACES/Elf.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,6 +241,9 @@
   },
   "active": "e15e576468db60a3",
   "lastOpenFiles": [
+    "100 RULES/190 BOOKS/191 RULES/Players Handbook.pdf",
+    "100 RULES/120 CHARACTERS/RACES/Elf.md",
+    "100 RULES/120 CHARACTERS/RACES/Races.md",
     "100 RULES/120 CHARACTERS/RACES/Dwarf.md",
     "200 REFERENCE/240 SPELLS/Darkvision.md",
     "100 RULES/120 CHARACTERS/CLASSES/Classes.md",
@@ -275,7 +252,6 @@
     "Skills.md",
     "100 RULES/110 BASICS/Determining Ability Scores.md",
     "zOTHER/PLUGINS/Callouts.md",
-    "100 RULES/120 CHARACTERS/RACES/Races.md",
     "zOTHER/TEMPLATES/Race Template.md",
     "100 RULES/120 CHARACTERS/CLASSES/Barbarian.md",
     "100 RULES/120 CHARACTERS/CLASSES/Scholar.md",
@@ -300,12 +276,9 @@
     "100 RULES/110 BASICS/Armour.md",
     "100 RULES/120 CHARACTERS/CLASSES/Warlock.md",
     "100 RULES/5e Rules MOC.md",
-    "zOTHER/Untitled.md",
-    "300 CAMPAIGN/330 GMs CORNER/333 IDEAS/Campaign Ideas.md",
     "zOTHER/CHARACTER SHEETS/Character Details (Optional) - Form Fillable.pdf",
     "zOTHER/EXCALIDRAW/Ability Scores.excalidraw.png",
     "IMAGES/MAPS/Garde Clean.jpg",
-    "100 RULES/190 BOOKS/191 RULES/Players Handbook.pdf",
     "200 REFERENCE/210 PCs/Andre CS.pdf",
     "200 REFERENCE/210 PCs/CharacterSheet_3Pgs_ Complete.pdf",
     "zOTHER/CHARACTER SHEETS/CharacterSheet_3Pgs_ Complete.pdf",
