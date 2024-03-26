@@ -35,7 +35,7 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "zOTHER/TEMPLATES/Notes Template.md",
-    "zOTHER/TEMPLATES/YAML Template.md",
+    "zOTHER/TEMPLATES/YAML - base.md",
     "zOTHER/TEMPLATES/MOC Template.md",
     "zOTHER/TEMPLATES/Statblock Template.md"
   ],

@@ -1,55 +1,57 @@
 ---
-cssclass: 
-date: 2023-01-29 13:57
+title: 
 publish: true
+cssclasses: 
+date: 2024-03-19 22:22
 type: race
 book: "[[Players Handbook.pdf]]"
-page: 
+page: 18
 tags:
-  - DnD/Rules/Races/Dwarf
-  - DnD/Rules
-back: "[[Races]]"
+  - DnD/Races/Dwarf
 ---
-Back: 
-
----
+##### Back: [[Races]] || Book: [[Players Handbook.pdf|Player's Handbook]] || Page:: 18
 # Traits
 ## General
-| Type      | Effect / Description |
-| ------------ | ------------------ |
-| Age          | 350 years average  |
-| Alignment    | Lawful             |
-| Size         | 4-5 feet (Medium)  |
-| Speed        | 25                 |
-| Language(s)    | Common, Dwarvish                   |
-## Abilities
-| Type          | Effect / Description                                                             |
-| ------------------ | ------------------------------------------------------------------------------ |
-| Constitution       | +2                                                                             |
-| Darkvision         | Can see in dim light within 60ft                                               |
-| Dwarven Resilience | Advantage on saving throws against poison and resistance against poison damage |
-## Proficiencies
-| Type           | Effect / Description                                                                                     |
-| ----------------------- | ------------------------------------------------------------------------------------------------------ |
-| Dwarven Combat Training | Proficiency with the Battleaxe, Handaxe, Throwing Hammer and Warhammer                                 |
-| Tool Proficiency        | Proficiency with the artisan’s tools of your choice: Smith’s tools, Brewer’s supplies or Mason’s tools |
-| Stonecutting            | Proficient on the history checks for stonework. Add double your normal profiency                       |
+| Type        | Effect / Description     |
+| ----------- | ------------------------ |
+| Age         | 350 years average        |
+| Alignment   | Lawful                   |
+| Size        | 4-5ft (medium)           |
+| Speed       | 25ft                     |
+| Language(s) | [[Common]], [[Dwarvish]] |
 
----
+## Abilities
+
+| Type                                     | Effect / Description                                                               |
+| ---------------------------------------- | ---------------------------------------------------------------------------------- |
+| [[Abilities#Constitution\|Constitution]] | +2 to your Constitution score                                                      |
+| [[Darkvision Trait\|Darkvision]]         | See 60ft in dim light, but only black and white                                    |
+| Dwarven Resilience                       | Advantage on saving throws against poison<br>plus resistance against poison damage |
+
+## Proficiencies
+
+| Type                    | Effect / Description                                                                                            |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Dwarven Combat Training | Battleaxe,<br>Handaxe,<br>Throwing Hammer,<br>Warhammer                                                         |
+| Tools                   | One of your choice:<br>Smith's tools,<br>Brewer's supplies,<br>Mason's tools                                    |
+| Stonecutting            | On [[Skills#History\|History]] checks relating to the origin of stonework,<br>add double your proficiency bonus |
+
 # Sub-races
 Choose one of these as your origin.
 ## Hill Dwarf
-| Abilities         | Effect/Description |
-| ----------------- | ------------------ |
-| Wisdom            | +1                 |
-| Dwarven Toughness | +1 to HP Max for every level                   |
+
+| Type              | Effect/Description           |
+| ----------------- | ---------------------------- |
+| Wisdom            | +1                           |
+| Dwarven Toughness | +1 to HP Max for every level |
 
 ## Mountain Dwarf
-| Abilities | Effect/Description |
-| --------- | ------------------ |
-| Strength  | +2                 |
 
-| Proficiecies            | Effect/Description                     |
+| Type     | Effect/Description |
+| -------- | ------------------ |
+| Strength | +2                 |
+
+| Proficiencies           | Effect/Description                     |
 | ----------------------- | -------------------------------------- |
 | Dwarven Armour Training | Proficiency in Light and Medium armour |
 

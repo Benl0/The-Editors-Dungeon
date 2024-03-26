@@ -5,7 +5,7 @@ publish: true
 type: race
 book: "[[Players Handbook.pdf24]]"
 tags:
-  - "#DnD/Rules/Races/Human"
+  - "#DnD/Races/Human"
 back: "[[Races]]"
 ---
 Back: 

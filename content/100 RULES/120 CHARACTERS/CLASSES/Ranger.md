@@ -6,7 +6,7 @@ publish: true
 type: class
 book: "[[Players Handbook.pdf83]]"
 tags:
-  - DnD/Rules/Classes/Ranger
+  - DnD/Classes/Ranger
 back: "[[Classes]]"
 ---
 Back: 

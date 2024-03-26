@@ -14,7 +14,7 @@ Back:
 # Personality
 A background is a way to give characters history. Who were they before the adventure and what hardship have they already endured? There are a wide selection of pre-made backgrounds, however this can be created entirely from scratch by both player and GM.
 ## Traits
-Two small descriptors that set your character apart. Think beyond "I'm smart" and more towards "I've read every book in my father's library twice". If you're at a loss, try looking to your [[Ability & Skill Scores|ability scores]]. With high Dexterity did you grow up in a travelling circus?
+Two small descriptors that set your character apart. Think beyond "I'm smart" and more towards "I've read every book in my father's library twice". If you're at a loss, try looking to your [[Abilities|ability scores]]. With high Dexterity did you grow up in a travelling circus?
 ## Ideals
 One thing that drives your character. What is the moral dilemma that will compel you to act, no matter what?
 ## Bonds

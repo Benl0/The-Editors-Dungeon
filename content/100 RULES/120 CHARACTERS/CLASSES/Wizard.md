@@ -6,7 +6,7 @@ publish: true
 type: class
 book: "[[Players Handbook.pdf106]]"
 tags:
-  - DnD/Rules/Classes/Wizard
+  - DnD/Classes/Wizard
   - DnD/Rules
 back: "[[Classes]]"
 ---
