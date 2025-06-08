@@ -1,14 +1,14 @@
 ---
-cssclass: 
+cssclasses: 
 date: 2024-03-02 20:38
 publish: true
 type: note
-book: "[[Players Handbook.pdf171]]"
+book: "[[Players Handbook.pdf]]"
 tags:
   - DnD/Rules
 back: "[[5E Rules]]"
 ---
-Back: 
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 171
 
 ---
 # Long Rest

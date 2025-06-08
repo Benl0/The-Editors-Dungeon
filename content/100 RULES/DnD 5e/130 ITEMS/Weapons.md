@@ -10,7 +10,7 @@ tags:
   - DnD/Rules/Equipment
   - DnD/Weapons
 ---
-##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 146
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 146
 # It's Dangerous to go Alone! Take This
 Unless you're going for a brawler build, you will likely be using some sort of sword, bow, hammer or other such instrument to inflict pain. What you use, will be largely determined by the [[Proficiency Bonus|proficiency]] your [[Classes|class]] provides.
 

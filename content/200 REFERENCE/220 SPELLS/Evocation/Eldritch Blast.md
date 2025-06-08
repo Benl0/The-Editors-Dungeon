@@ -5,7 +5,7 @@ cssclass:
   - dashboard
 date: 2024-04-20 18:30
 type: magic
-book: "Players Handbook.pdf"
+book: '[[Players Handbook.pdf]]'
 page: 237
 tags:
   - DnD/Spells/Evocation
@@ -14,7 +14,7 @@ tags:
 
 ---
 
-##### Back: [[Magic]] || Book: [Players Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 237
+##### Back: [[Magic]] || Book: Player's Handbook || Page: 237
 
 # Eldritch Blast
 - ![[eldritch-blast.png]]

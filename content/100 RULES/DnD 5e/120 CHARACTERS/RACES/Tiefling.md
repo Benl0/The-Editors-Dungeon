@@ -9,7 +9,7 @@ page: 42
 tags:
   - DnD/Races/Tiefling
 ---
-##### Back: [[Races]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 42
+##### Back: [[Races]] || Book: Player's Handbook || Page: 42
 
 ![[tiefling.png|300]]
 

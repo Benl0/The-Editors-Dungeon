@@ -20,7 +20,7 @@ system: 5e
 
 
 # Characters
-- ## Players
+- ## The Party
 	- [[Alaric]]
 	- [[Dane Sparkfire]]
 	- [[Maximus Ironshield]]
@@ -28,17 +28,21 @@ system: 5e
 	- [[Pascal]]
 	- [[Sylvaris Nightwhisper]]
 	- [[Winslow]]
-- ## NPCs
+- ## Friends
 	- [[Jeremy Hartfall]]
 	- [[Eliza Trotz|Eliza]]
-- ## Other
+	- [[Nicholas Moniker]]
+- ## Others
 	- [[Bandit Jeremy]]
 	- [[Torz]]
 # Sessions
 - ### Small Beginnings
-	1. [[1.0 Just Another Job|Just Another Job]]
-	2. [[1.1 A Valiant Rescue|A Valiant Rescue]]
-	3. [[2.0 Return to Haven|Return to Haven]]
+	1. [[1 Just Another Job|Just Another Job]]
+	2. [[2 A Valiant Rescue|A Valiant Rescue]]
+	3. [[3 Return to Haven|Return to Haven]]
+	4. [[4 Ancient Cathedral|Delve into the ruins]]
+	5. [[5 Ancient Cathedral|Brawl at the Cathedral]]
+	6. [[6 Ancient Cathedral|Backup at the Cathedral]]
 
 
 ---

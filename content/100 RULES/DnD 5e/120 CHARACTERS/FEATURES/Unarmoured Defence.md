@@ -10,6 +10,6 @@ tags:
   - DnD/Classes/Barbarian
   - DnD/Features/Barbarian
 ---
-##### Back: [[Features]]  || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 48
+##### Back: [[Features]]  || Book: Player's Handbook || Page: 48
 
 While you are not wearing any [[Armour]] your [[Armour Class]] equals 10 + your [[Abilities#Dexterity|Dexterity]] modifier + your [[Abilities#Constitution|Constitution]] modifier. You can use a [[Armour#Shields|shield]] and still gain this benefit.

@@ -1,6 +1,6 @@
 ---
-title: 
-publish: false
+title: Delve into the Ruins - cont
+publish: true
 cssclasses:
   - dashboard
 date: 2024-04-21 12:13
@@ -13,22 +13,23 @@ campaign: Garde
 ##### Back: [[Garde]]
 
 # General
-- ## Planning
-	- [[Campaign Ideas]]
-	- [[Story Plan v1]]
-	- [[Story plan v2]]
-	- [[To Research]]
+- ## Plan
+	- [[Story Bible]]
 	- [[Compelling Villains]]
 	- [[To Exploit]]
+	- [[Garde Roadmap]]
 - ## Inspiration
 	- [[Monster ideas]]
+	- [[Campaign Ideas]]
 - ## Reference
 	- [[Garde Calendar]]
 	- [[Plugins]]
 - ## Lore
 	- [[Garde History]]
 	- [[The Three Moons]]
-	- 
+	- [[Astral Plane Anchors]]
+- ## Other
+	- [[To Research]]
 
 # Characters
 `button-cha-npc`
@@ -68,7 +69,13 @@ SORT sessionNum
 ```
 
 ---
+# Map
 
+```leaflet
+id: Garde
+image: [[Garde v2 - 6k.jpg]]
+defaultZoom: 6
+```
 
 # Vault Info
 - 🗄️ **Recent file updates** `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(10).file.link)`
@@ -78,3 +85,7 @@ SORT sessionNum
     - Reference: `$=dv.pages('"200 REFERENCE"').length`
     - Garde: `$=dv.pages('"300 CAMPAIGNS/Garde"').length`
 
+
+> [!warning]- Old
+> - [[Story Plan v1]]
+> - [[Story plan v2]]

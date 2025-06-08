@@ -12,7 +12,7 @@ tags:
   - DnD/Spells/Lv3
   - DnD/Spells/Class/
 ---
-##### Back: [[Magic]] || Book: [Players Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 
+##### Back: [[Magic]] || Book: Player's Handbook || Page: 
 
 # Magic Circle
 - *image*

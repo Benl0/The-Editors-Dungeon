@@ -9,7 +9,7 @@ page: 174
 tags:
   - DnD/Rules
 ---
-##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 174
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 174
 # Test your Mettle
 > [!BUG] This page is incomplete 
 

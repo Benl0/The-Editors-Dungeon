@@ -9,7 +9,7 @@ page: 165
 tags:
   - DnD/Rules
 ---
-##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 165
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 165
 
 # Incredible talents
 A feat is a skill or ability that your character has high level of expertise in, beyond what might be considered standard training for your [[Classes|class]].

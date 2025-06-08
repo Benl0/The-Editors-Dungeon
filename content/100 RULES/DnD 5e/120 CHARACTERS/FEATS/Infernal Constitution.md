@@ -10,7 +10,7 @@ tags:
     - DnD/Rules/Feats
 ---
 
-##### Back: [[Feats]] || Book: [[Xanathars Guide to Everything.pdf|Xanathar's Guide to Everything]]
+##### Back: [[Feats]] || Book: Xanathar's Guide to Everything
 
 # Infernal Constitution
 

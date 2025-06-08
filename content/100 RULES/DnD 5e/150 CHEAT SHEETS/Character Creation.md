@@ -1,14 +1,14 @@
 ---
-cssclass: 
+cssclasses: 
 date: 2022-11-05 19:35
 publish: true
 type: note
-book: "[[Players Handbook.pdf8]]"
+book: "[[Players Handbook.pdf]]"
 tags:
   - DnD/Rules
 back: "[[5E Rules]]"
 ---
-Back: 
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 8
 
 ---
 *Step by step on character creation*

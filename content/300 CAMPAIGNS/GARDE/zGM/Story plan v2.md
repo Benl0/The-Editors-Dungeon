@@ -70,6 +70,9 @@ class:
 	4. Dane's sister may have been taken by the cultists
 4. 
 
+> [!IMPORTANT] ANCHORS CAN BE SAVED
+> The curse can be broken and this will be the main push to remove them
+
 ## Questions to ask:
 - What happened to Alaric's village? 
 	- Why did they turn hostile?
@@ -78,10 +81,10 @@ class:
 - Where is Dane's sister?
 	- Stolen by the cult for being a sorcerer?
 	- Is she still alive?
-**She is being hunted as a natural born sorcerer. She managed to escape but decided not to return home to keep the village safe.**
+	- **She is being hunted as a natural born sorcerer. She managed to escape but decided not to return home to keep the village safe.**
 
 - Why was Pascal's warren attacked?
-**Capitalism. The trees of the Warren are full of magical properties, perfect for surviving the magically charged sea water**
+	- **Capitalism. The trees of the Warren are full of magical properties, perfect for surviving the magically charged sea water**
 
 - Why was Sylvaris' royal family overthrown?
 	- Why is Maximus helping?

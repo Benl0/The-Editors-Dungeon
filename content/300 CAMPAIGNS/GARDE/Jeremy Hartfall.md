@@ -14,9 +14,9 @@ location: Haven
 description: Paladin and Royal knight
 ---
 ##### Back:  [[Garde|Garde]]
-# The Mysterious Man
+# The Mysterious Protector
 
-*A strange man but cheery chap. Definitely an important and powerful figure but he won't spill any beans until several flagons deep*
+*Royal guard and sworn defender of [[Eliza Trotz|Eliza]]. Nothing will get between him and his duty*
 
 ## General info
 - From [[Haven]]

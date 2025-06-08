@@ -5,7 +5,8 @@ publish: false
 cssclasses: 
 date: 2024-06-08 10:25
 type: npc
-tags: 
+tags:
+  - Garde/NPC
 world: Garde
 campaign: Garde
 faction: The Crumbling Moon

@@ -9,7 +9,7 @@ page: 146
 tags:
   - DnD/Rules/Equipment
 ---
-##### Back: [[Weapons]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 146
+##### Back: [[Weapons]] || Book: Player's Handbook || Page: 146
 # Properties
 Weapons with properties have additional effects or benefits, often on top of the base damage. Weapons can have more than one property.
 

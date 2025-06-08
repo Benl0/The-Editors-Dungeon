@@ -5,7 +5,7 @@ cssclass:
   - dashboard
 date: 2024-04-20 18:30
 type: magic
-book: "Players Handbook.pdf"
+book: '[[Players Handbook.pdf]]'
 page: 289
 tags:
   - DnD/Spells/Enchantment
@@ -16,7 +16,7 @@ tags:
 
 ---
 
-##### Back: [[Magic]] || Book: [Players Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 289
+##### Back: [[Magic]] || Book: Player's Handbook || Page: 289
 
 # Zone of Truth
 - ![[zone-of-truth.png]]

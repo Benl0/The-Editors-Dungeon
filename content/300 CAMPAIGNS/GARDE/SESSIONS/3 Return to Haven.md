@@ -15,8 +15,8 @@ location:
 description: 
 summary:
 ---
-##### Back: [[Garde]]
-##### Previous: [[1.1 A Valiant Rescue|A Valiant Rescue]] || Next: [[3.0 Delve into the ruins]]
+##### Back: [[Garde]] || Session: 3
+##### Previous: [[2 A Valiant Rescue|A Valiant Rescue]] || Next: [[4 Ancient Cathedral|The Ancient Cathedral]]
 
 > [!quote] *Little top hat for a little rat*
 

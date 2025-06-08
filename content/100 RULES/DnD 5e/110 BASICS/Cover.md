@@ -9,7 +9,7 @@ page: 196
 tags:
   - DnD/Rules/Combat
 ---
-##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 196
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 196
 # Mind your Head
 Hiding behind a tree is a great idea when arrows are flying at you. The level of cover is 
 

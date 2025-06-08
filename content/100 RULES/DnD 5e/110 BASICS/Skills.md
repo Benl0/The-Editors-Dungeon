@@ -9,7 +9,7 @@ page: 13
 tags:
   - DnD/Rules/Stats
 ---
-##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 13
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 13
 # Skills of Life 
 
 > [!missing] This page is incomplete

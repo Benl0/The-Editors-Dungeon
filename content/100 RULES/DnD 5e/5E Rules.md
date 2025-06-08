@@ -70,5 +70,15 @@ tags:
 - [[Determining Ability Scores]]
 - [[Determining Skill Scores]]
 
-> [!TIP]+ Want to read more?
-> Find all the books we have available at [this link](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing)
+# Lore
+- ## The Planes
+	- Inner Planes
+	- Outer Planes
+	- Elemental Chaos
+	- Astral Plane
+	- Ethereal Plane
+	- ![[the-planes-dmg-2024-v0-6r8g0atevc0e1.webp|250]]
+- ## Forgotten Realms
+	- Baldur's Gate
+	- WaterDeep
+

@@ -12,7 +12,7 @@ tags:
   - DnD/Classes/Cleric
   - DnD/Classes/Paladin
 ---
-##### Back: [[Magic]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 207
+##### Back: [[Magic]] || Book: Player's Handbook || Page: 207
 
 
 # Aid

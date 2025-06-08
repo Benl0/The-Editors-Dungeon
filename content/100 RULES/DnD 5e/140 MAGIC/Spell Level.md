@@ -9,7 +9,7 @@ page: 201
 tags:
   - DnD/Rules/Magic
 ---
-##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 201
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 201
 
 [Spells](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Spells) are a singular expression of the world's energies, and their power is determined by the Spell level. To use a specific spell, you must expend a spell slot at the same level or higher. No spell slot, no spell. The only exceptions are Cantrips which can be used without spell slots.
 

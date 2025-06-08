@@ -9,7 +9,7 @@ page:
 tags:
   - DnD/Rules
 ---
-##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 
 
 > [!BUG] This page is incomplete
 

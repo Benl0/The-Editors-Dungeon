@@ -10,7 +10,7 @@ tags:
   - DnD/Classes/Barbarian
   - DnD/Features/Barbarian
 ---
-##### Back: [[Features]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 48
+##### Back: [[Features]] || Book: Player's Handbook || Page: 48
 
 In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action. While raging, you gain the following benefits if you aren't wearing heavy [[Armour]]:
 - You have advantage on Strength [[Ability Checks|checks]] and Strength [[Saving Throw|saving throws]].

@@ -8,7 +8,7 @@ book:
 page: 
 tags:
 ---
-##### Back:  || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 
+##### Back:  || Book: Player's Handbook || Page: 
 # Heading
 2024-03-26 08:26
 

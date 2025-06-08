@@ -1,5 +1,6 @@
 ---
 title: 
+aliases: 
 sessionNum: <% tp.system.prompt("SessionNum","0") %>
 sessionDate: 
 publish: false

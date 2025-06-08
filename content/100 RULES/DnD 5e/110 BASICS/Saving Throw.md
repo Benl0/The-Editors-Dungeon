@@ -9,7 +9,7 @@ page: 179
 tags:
   - DnD/Rules
 ---
-##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 179
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 179
 # That was a bit close...
 $$1d20+Mod+Prof$$
 A saving throw can be requested from you at any point, but typically it will be to avoid a spell or some other attack. The type of saving throw determines the [[Ability Modifiers|Ability Modifier]] used.

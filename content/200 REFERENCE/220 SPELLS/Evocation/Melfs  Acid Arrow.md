@@ -13,7 +13,7 @@ tags:
   - DnD/Spells/Class/Wizard
 ---
 
-##### Back: [[Magic]] || Book: [Players Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 259
+##### Back: [[Magic]] || Book: Player's Handbook || Page: 259
 
 # Melf's  Acid Arrow
 

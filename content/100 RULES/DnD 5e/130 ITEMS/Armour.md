@@ -9,7 +9,7 @@ tags:
 back: "[[5E Rules]]"
 page: 145
 ---
-##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 145
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 145
 
 # Wear this, Don't die
 In D&D 5e, armour lets you increase your [[Armour Class|AC]] by providing a higher base stat than 10.

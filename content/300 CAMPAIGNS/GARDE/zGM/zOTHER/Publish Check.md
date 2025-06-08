@@ -1,19 +1,21 @@
 ---
 title: 
 publish: false
-cssclass: 
+cssclasses: 
 date: 2024-04-12 14:21
 type: note
 book: 
 page: 
 tags:
   - GM
+back: "[[Garde GM MOC]]"
 ---
-##### Back:  || Book:  || Page: 
+##### Back: [[Garde GM MOC]]
 # Notes that are not published
 
 ```dataview
 TABLE
-file.etags as "Tags"
+type AS "Type", file.etags AS "Tags"
+SORT type ASC
 WHERE publish = false
 ```

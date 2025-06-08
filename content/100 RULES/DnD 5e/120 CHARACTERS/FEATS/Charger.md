@@ -10,7 +10,7 @@ tags:
     - DnD/Rules/Feats
 ---
 
-##### Back: [[Feats]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing)
+##### Back: [[Feats]] || Book: Player's Handbook
 
 # Charger
 

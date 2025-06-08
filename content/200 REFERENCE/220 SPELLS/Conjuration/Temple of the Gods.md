@@ -5,7 +5,7 @@ cssclass:
   - dashboard
 date: 2024-04-20 18:30
 type: magic
-book: "Xanathars Guide to Everything.pdf"
+book: "[[Xanathars Guide to Everything.pdf]]"
 page: 167
 tags:
   - DnD/Spells/Conjuration
@@ -14,7 +14,7 @@ tags:
 
 ---
 
-##### Back: [[Magic]] || Book: [Xanathars Guide to Everything](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 167
+##### Back: [[Magic]] || Book: Xanathars Guide to Everything || Page: 167
 
 # Temple of the Gods
 

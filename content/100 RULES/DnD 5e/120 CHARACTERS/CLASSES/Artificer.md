@@ -10,7 +10,7 @@ page: 10
 tags:
   - DnD/Classes/Artificer
 ---
-##### Back: [[Classes]] || Book: [Tasha's Cauldron of Everything](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 10
+##### Back: [[Classes]] || Book: Tasha's Cauldron of Everything || Page: 10
 
 # Stats:
 - ### Hit Points

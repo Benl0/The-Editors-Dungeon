@@ -1,14 +1,14 @@
 ---
-cssclass: 
+cssclasses: 
 date: 2024-03-03 12:14
 publish: true
 type: note
-book: "[[Players Handbook.pdf12]]"
+book: "[[Players Handbook.pdf]]"
 tags:
   - DnD/Rules/Stats
 back: "[[5E Rules]]"
 ---
-Back: 
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 12
 # Experience Points
 - Levelling up may allow increasing of abilities
 	- You cannot increase above 20

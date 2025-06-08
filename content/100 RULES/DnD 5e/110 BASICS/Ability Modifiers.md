@@ -9,7 +9,7 @@ page: 12
 tags:
   - DnD/Rules/Stats
 ---
-##### Back:  || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 12
+##### Back:  || Book: Player's Handbook || Page: 12
 
 # Ability Modifiers
 After you've [[Determining Ability Scores|determined your ability scores]], each ability will accompanied by a plus or minus number (hopefully plus). These are the modifiers and they assist your dice rolls. 

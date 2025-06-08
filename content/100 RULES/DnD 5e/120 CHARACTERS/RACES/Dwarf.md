@@ -9,7 +9,7 @@ page: 18
 tags:
   - DnD/Races/Dwarf
 ---
-##### Back: [[Races]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 18
+##### Back: [[Races]] || Book: Player's Handbook || Page: 18
 
 ![[dwarf.png|300]]
 

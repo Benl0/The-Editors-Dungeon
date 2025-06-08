@@ -17,7 +17,7 @@ summary:
 ---
 ##### Back: [[Garde GM MOC]] || Session: 
 
-# Session 4
+# Session 4-6
 ## To do:
 - [ ] Complete Artificer features in Foundry
 - [ ] Build roll tables for Robe of useful items
@@ -56,6 +56,11 @@ defaultZoom: 8
 > You see a series of images carved into the stone. 
 > A group of people, 8 strong. An adventure, hard won. A dance in celebration turned to ruin. 
 > A great evil destroying the land.
+
+### Broken Anchor Statue
+- DC 10 Arcana
+	- You see
+
 
 ---
 # Minutes

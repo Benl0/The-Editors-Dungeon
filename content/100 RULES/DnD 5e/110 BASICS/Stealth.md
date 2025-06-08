@@ -9,7 +9,7 @@ page:
 tags:
   - DnD/Rules/Combat
 ---
-##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 177
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 177
 # Sneaky Pete
 To hide, you perform a
 

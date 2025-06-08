@@ -9,7 +9,7 @@ page: 38
 tags:
   - DnD/Races/Half-Elf
 ---
-##### Back: [[Races]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 38
+##### Back: [[Races]] || Book: Player's Handbook || Page: 38
 
 ![[half-elf.png|300]]
 

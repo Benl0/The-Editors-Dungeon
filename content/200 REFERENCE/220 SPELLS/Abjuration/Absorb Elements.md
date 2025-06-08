@@ -1,11 +1,11 @@
 ---
 title: Absorb Elements
 publish: true
-cssclass:
+cssclasses:
   - dashboard
 date: 2024-04-20 18:30
 type: magic
-book: "Xanathars Guide to Everything.pdf"
+book: "[[Xanathars Guide to Everything.pdf]]"
 page: 150
 tags:
   - DnD/Spells/Abjuration
@@ -15,10 +15,9 @@ tags:
   - DnD/Spells/Class/Ranger
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Artificer
-
 ---
 
-##### Back: [[Magic]] || Book: [Xanathars Guide to Everything](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 150
+##### Back: [[Magic]] || Book: Xanathars Guide to Everything || Page: 150
 
 # Absorb Elements
 - ![[blight.png]]

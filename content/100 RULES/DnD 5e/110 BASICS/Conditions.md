@@ -9,7 +9,7 @@ page: 290
 tags:
   - DnD/Rules/Conditions
 ---
-##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 290
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 290
 # Altered States
 ## Blinded
 - A blinded creature can’t see and automatically fails any ability check that requires sight.

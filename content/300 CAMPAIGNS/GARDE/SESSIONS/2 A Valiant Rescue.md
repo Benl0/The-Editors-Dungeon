@@ -1,5 +1,5 @@
 ---
-title: A Valiant Rescur
+title: A Valiant Rescue
 sessionNum: 2
 sessionDate: 2024-07-13
 publish: true
@@ -12,7 +12,7 @@ world: Garde
 campaign: Garde
 ---
 ##### Back: [[Garde]] || Session: 2
-##### Previous: [[1.0 Just Another Job|Just Another Job]] || Next: [[2.0 Return to Haven|Return to Haven]]
+##### Previous: [[1 Just Another Job|Just Another Job]] || Next: [[3 Return to Haven|Return to Haven]]
 
 > [!quote] *Puns = Psychic damage*
 
@@ -21,7 +21,7 @@ campaign: Garde
 
 
 > [!summary] Foundry Chat log
-> [[20240713-GARDE-001.1]]
+> [[20240713-GARDE-002]]
 
 # Cultist Cave
 - A strange [[Myla Damakos|Tiefling wizard]] was presiding over an evil occult ritual. [[Eliza Trotz|Eliza]] is trapped against a stone plinth at the back of the cave.

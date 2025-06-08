@@ -8,7 +8,7 @@ tags:
   - DnD/Items/Armour
 back: "[[Armour]]"
 ---
-##### Back: [[Armour]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 145
+##### Back: [[Armour]] || Book: Player's Handbook || Page: 145
 
 
 > [!INFO] Refer to the [[Armour]] rules for how to use this note

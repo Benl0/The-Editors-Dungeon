@@ -10,7 +10,7 @@ page: 94
 tags:
   - DnD/Classes/Rogue
 ---
-##### Back: [[Classes]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 94
+##### Back: [[Classes]] || Book: Player's Handbook || Page: 94
 
 # Stats:
 - ### Hit Points

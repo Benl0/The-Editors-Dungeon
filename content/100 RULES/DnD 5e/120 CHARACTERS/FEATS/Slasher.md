@@ -10,7 +10,7 @@ tags:
     - DnD/Rules/Feats
 ---
 
-##### Back: [[Feats]] || Book: [[Tashas Cauldron of Everything.pdf|Tasha's Cauldron of Everything]]
+##### Back: [[Feats]] || Book: Tasha's Cauldron of Everything
 
 # Slasher
 

@@ -10,7 +10,7 @@ page: 56
 tags:
   - DnD/Classes/Cleric
 ---
-##### Back: [[Classes]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 56
+##### Back: [[Classes]] || Book: Player's Handbook || Page: 56
 
 # Stats:
 - ### Hit Points

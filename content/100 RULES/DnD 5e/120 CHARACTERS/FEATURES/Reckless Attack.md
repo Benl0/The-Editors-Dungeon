@@ -10,6 +10,6 @@ tags:
   - DnD/Classes/Barbarian
   - DnD/Features/Barbarian
 ---
-##### Back: [[Features]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 48
+##### Back: [[Features]] || Book: Player's Handbook || Page: 48
  
 Starting at 2nd level, you can throw aside all concern for defence to attack with fierce desperation. When you make your first attack on your turn. you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.

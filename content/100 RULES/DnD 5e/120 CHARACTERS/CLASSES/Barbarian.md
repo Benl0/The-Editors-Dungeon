@@ -10,7 +10,7 @@ page: 46
 tags:
   - DnD/Classes/Barbarian
 ---
-##### Back: [[Classes]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 46
+##### Back: [[Classes]] || Book: Player's Handbook || Page: 46
 
 # Stats:
 - ### Hit Points

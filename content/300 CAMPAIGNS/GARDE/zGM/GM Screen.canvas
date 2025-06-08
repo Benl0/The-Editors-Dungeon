@@ -5,8 +5,8 @@
 		{"id":"1279697f9bd22b44","type":"file","file":"IMAGES/GM REFERENCE/Weapons & Armor Reference Sheet.png","x":-904,"y":563,"width":1008,"height":698},
 		{"id":"95539b96478f04a8","type":"file","file":"IMAGES/GM REFERENCE/VO References For NPCs.jpg","x":180,"y":-200,"width":1110,"height":1474},
 		{"id":"06cf499cc71c35ee","type":"file","file":"IMAGES/GM REFERENCE/Better Combat Descriptions.png","x":180,"y":-1120,"width":1110,"height":862},
-		{"id":"a8c8821d4480dd6b","type":"file","file":"IMAGES/GM REFERENCE/Abilities Reference Sheet.png","x":-904,"y":-880,"width":1008,"height":698},
 		{"id":"b9e02b8179c4ef12","type":"file","file":"IMAGES/GM REFERENCE/Conditions & States Reference Sheet.png","x":-904,"y":-157,"width":1008,"height":698},
+		{"id":"a8c8821d4480dd6b","type":"file","file":"IMAGES/GM REFERENCE/Abilities Reference Sheet.png","x":-904,"y":-880,"width":1008,"height":698},
 		{"id":"d39beb9126096711","type":"file","file":"IMAGES/GM REFERENCE/Player Combat Actions Cheat Sheet.png","x":-904,"y":-1126,"width":1008,"height":237}
 	],
 	"edges":[]

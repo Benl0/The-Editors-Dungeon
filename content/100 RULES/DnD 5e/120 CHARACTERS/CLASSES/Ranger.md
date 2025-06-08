@@ -1,15 +1,15 @@
 ---
-cssclass:
+cssclasses:
   - dashboard
 date: 2024-02-27 11:04
 publish: true
 type: class
-book: "[[Players Handbook.pdf83]]"
+book: "[[Players Handbook.pdf]]"
 tags:
   - DnD/Classes/Ranger
 back: "[[Classes]]"
 ---
-Back: 
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 83
 
 ---
 # Stats:

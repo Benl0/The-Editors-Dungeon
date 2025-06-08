@@ -10,7 +10,7 @@ tags:
   - DnD/Items/adventuring-gear
   - DnD/Rules/Equipment
 ---
-##### Back: [[Adventuring Gear]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 151
+##### Back: [[Adventuring Gear]] || Book: Player's Handbook || Page: 151
 
 The starting equipment you get from your [[Classes|class]] includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
 

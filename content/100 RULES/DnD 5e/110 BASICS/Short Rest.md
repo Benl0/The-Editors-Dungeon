@@ -9,7 +9,7 @@ page: 171
 tags:
   - DnD/Rules
 ---
-##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 171
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 171
 
 # Short Rest
 - At least 1 hour.

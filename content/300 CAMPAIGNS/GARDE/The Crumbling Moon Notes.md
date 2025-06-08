@@ -26,8 +26,6 @@ An ancient order that has lost it's original purpose and goals. They operate via
 
 ## [[Crumbling Moon Manifesto|Manifesto]]
 
-[[Selene Starwhisper]]
-
 
 # Members
 ```dataview

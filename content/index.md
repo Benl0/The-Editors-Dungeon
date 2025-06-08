@@ -20,6 +20,3 @@ tags:
 ---
 - [[GM]]
 
-> [!TIP]+ Want to read more?
-> Find all the books we have available at [this link](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing)
-

@@ -10,7 +10,7 @@ tags:
     - DnD/Rules/Feats
 ---
 
-##### Back: [[Feats]] || Book: [[Glory of the Giants.pdf|Glory of the Giants]]
+##### Back: [[Feats]] || Book: Glory of the Giants
 
 # Soul of the Storm Giant
 

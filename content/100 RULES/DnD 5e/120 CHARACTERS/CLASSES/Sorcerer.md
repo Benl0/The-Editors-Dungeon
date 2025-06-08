@@ -10,7 +10,7 @@ page: 99
 tags:
   - DnD/Classes/Sorcerer
 ---
-##### Back: [[Classes]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 99
+##### Back: [[Classes]] || Book: Player's Handbook || Page: 99
 
 # Stats:
 - ### Hit Points

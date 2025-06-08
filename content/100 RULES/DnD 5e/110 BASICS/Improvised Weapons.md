@@ -9,7 +9,7 @@ page: 147
 tags:
   - DnD/Rules/Equipment
 ---
-##### Back: [[Weapons]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 147
+##### Back: [[Weapons]] || Book: Player's Handbook || Page: 147
 # In a Pinch
 Lost your weapon? Then it's time to get creative! If you can reasonably hold an object in one or two hands, you can use it as an improvised weapon.
 

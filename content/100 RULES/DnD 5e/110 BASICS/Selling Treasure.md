@@ -1,14 +1,14 @@
 ---
-cssclass: 
+cssclasses: 
 date: 2024-03-03 13:22
 publish: true
 type: note
-book: "[[Players Handbook.pdf135]]"
+book: "[[Players Handbook.pdf]]"
 tags:
   - DnD/Rules/Equipment
 back: "[[5E Rules]]"
 ---
-Back: 
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 135
 # Selling
 On your adventure you will collect rare items and goods to sell.
 

@@ -1,7 +1,7 @@
 ---
 title: 
 sessionNum: 2
-sessionDate: 
+sessionDate: 2024-04-13
 publish: false
 cssclasses: 
 date: 2024-05-06 15:42
@@ -15,7 +15,7 @@ location: Verlust
 description: 
 summary:
 ---
-##### Back: [[Garde GM MOC]] || Session: [[1.1 A Valiant Rescue]]
+##### Back: [[Garde GM MOC]] || Session: [[2 A Valiant Rescue]]
 
 # Session 1.1
 ## To do

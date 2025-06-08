@@ -10,7 +10,7 @@ tags:
   - DnD/Classes/Cleric
   - DnD/Features/Cleric
 ---
-##### Back: [[Features]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 58
+##### Back: [[Features]] || Book: Player's Handbook || Page: 58
 
 # Knowledge of the Gods
 Choose one domain related to your deity: Knowledge, Life, Light, Nature, Tempest, Trickery, or War. Each domain is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th. 8th, and 17th levels.

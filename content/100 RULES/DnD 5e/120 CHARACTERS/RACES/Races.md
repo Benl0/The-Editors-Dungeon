@@ -9,7 +9,7 @@ page: 17
 tags:
   - DnD/Races
 ---
-##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 17
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 17
 *A race describes a character's born self, from Human to Orc and much more.*
 
 > [!info] This page will grow

@@ -40,7 +40,7 @@ Many kingdoms, city states and tribes have risen and fallen in Garde. In the mod
 > [!BUG]- GM's Corner
 > ```leaflet
 > id: Garde
-> image: [[Garde Clean.jpg]]
-> defaultZoom: 8
+> image: [[Garde v2 - 6k.jpg]]
+> defaultZoom: 6
 > ```
 

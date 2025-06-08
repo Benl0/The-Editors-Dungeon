@@ -9,7 +9,7 @@ page: 12
 tags:
   - DnD/Rules
 ---
-##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 12
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 12
 
 *How tough a character is in combat.*
 

@@ -9,7 +9,7 @@ page: 195
 tags:
   - DnD/Rules/Combat
 ---
-##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 195
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 195
 # Eyes on your Enemy
 In the heat of a battle, you must stay focused on your opponent. If your enemy moves out of your attack reach (e.g. 5ft for a melee attack), you get a [[Actions#Reactions|reaction]] attack. If you hit, you stop all their movement. However, the same works in reverse!
 

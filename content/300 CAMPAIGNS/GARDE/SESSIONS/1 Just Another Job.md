@@ -11,7 +11,7 @@ sessionNum: 1
 sessionDate: 2024-05-04
 ---
 ##### Back:  [[Garde|Garde]] || Session: 1
-##### Next: [[1.1 A Valiant Rescue|A Valiant Rescue]]
+##### Next: [[2 A Valiant Rescue|A Valiant Rescue]]
 
 > [!quote] *"Like a baguette"*
 
@@ -23,7 +23,7 @@ sessionDate: 2024-05-04
 - [[Torz]]
 
 > [!summary]+ Foundry Chat log
-> [[20240504-GARDE-001.0]]
+> [[20240504-GARDE-001]]
 
 # [[The Spear Inn]]
 - The party arrive at the inn one by one. Each of them found a job advert saying to "meet at the Spear Inn in the far corner"

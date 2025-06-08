@@ -9,7 +9,7 @@ page: 192
 tags:
   - DnD/Rules/Combat
 ---
-##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 192
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 192
 # Punching or Slashing?
 Actions determine what you can and can't do in a turn.
 

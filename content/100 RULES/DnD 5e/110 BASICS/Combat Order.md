@@ -9,7 +9,7 @@ page: 189
 tags:
   - DnD/Rules/Combat
 ---
-##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 189
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 189
 # Taking a Dagger to a Spells Fight
 
 ## Step by Step

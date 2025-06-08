@@ -10,7 +10,7 @@ tags:
   - DnD/Classes/Barbarian
   - DnD/Features/Barbarian
 ---
-##### Back: [[Features]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 49
+##### Back: [[Features]] || Book: Player's Handbook || Page: 49
 
 At 3rd level, you choose a path that shapes the nature of your rage. Choose the Path of the Berserker or the Path of the Totem Warrior. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
 

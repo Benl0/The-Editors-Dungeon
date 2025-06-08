@@ -11,7 +11,7 @@ tags:
 world: garde
 sessionDate: 2024-05-04
 ---
-##### Back: [[Garde GM MOC]] | Session: [[1.0 Just Another Job]]
+##### Back: [[Garde GM MOC]] | Session: [[1 Just Another Job]]
 
 # 1.0 Small Beginnings
 > [!quote]+ Intro

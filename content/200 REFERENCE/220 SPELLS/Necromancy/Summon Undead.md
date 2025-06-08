@@ -5,7 +5,7 @@ cssclass:
   - dashboard
 date: 2024-04-20 18:30
 type: magic
-book: "Tashas Cauldron of Everything.pdf"
+book: '[[Tashas Cauldron of Everything.pdf]]'
 page: 114
 tags:
   - DnD/Spells/Necromancy
@@ -15,7 +15,7 @@ tags:
 
 ---
 
-##### Back: [[Magic]] || Book: [Tashas Cauldron of Everything](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 114
+##### Back: [[Magic]] || Book: Tasha's Cauldron of Everything || Page: 114
 
 # Summon Undead
 

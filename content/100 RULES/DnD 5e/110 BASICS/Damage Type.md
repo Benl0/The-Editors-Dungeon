@@ -9,7 +9,7 @@ page: 196
 tags:
   - DnD/Rules/Equipment
 ---
-##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 196
+##### Back: [[5E Rules]] || Book: Player's Handbook || Page: 196
 # Strengths and Weaknesses
 Different weapons and attacks cause different effects and, depending on the target, might be more or less effective.
 

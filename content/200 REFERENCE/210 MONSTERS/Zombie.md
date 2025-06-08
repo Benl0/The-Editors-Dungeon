@@ -10,7 +10,7 @@ page: 316
 tags:
   - DnD/Monsters/Undead
 ---
-##### Back: [[Monsters]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 311
+##### Back: [[Monsters]] || Book: Player's Handbook || Page: 311
 
 
 - **Stats**:

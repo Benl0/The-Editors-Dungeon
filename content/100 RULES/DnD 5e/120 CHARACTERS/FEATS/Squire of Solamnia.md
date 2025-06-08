@@ -10,7 +10,7 @@ tags:
     - DnD/Rules/Feats
 ---
 
-##### Back: [[Feats]] || Book: [[Shadow of the Dragon Queen.pdf|Shadow of the Dragon Queen]]
+##### Back: [[Feats]] || Book: Shadow of the Dragon Queen
 
 # Squire of Solamnia
 

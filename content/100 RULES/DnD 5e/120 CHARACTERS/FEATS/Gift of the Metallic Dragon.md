@@ -10,7 +10,7 @@ tags:
     - DnD/Rules/Feats
 ---
 
-##### Back: [[Feats]] || Book: [[Fizbans treasury of dragons.pdf|Fizbans treasury of dragons]]
+##### Back: [[Feats]] || Book: Fizbans treasury of dragons
 
 # Gift of the Metallic Dragon
 
