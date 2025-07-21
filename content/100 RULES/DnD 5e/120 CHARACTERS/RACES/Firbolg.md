@@ -12,6 +12,12 @@ tags:
 ##### Back: [[Races]] || Book: Monsters of the Multiverse || Page: 15
 
 # Traits
+
+*Distant cousins of giants, the first firbolgs wandered the primeval forests of the multiverse, and the magic of those forests entwined itself with the firbolgs' souls. Centuries later, that magic still thrums inside a firbolg, even one who has never lived under the boughs of a great forest.* 
+*A firbolg's magic is an obscuring sort, which allowed their ancestors to pass through a forest without disturbing it. So deep is the connection between a firbolg and the wild places of the world that they can communicate with flora and fauna. Firbolgs can live up to 500 years.*
+
+![[firbolg.webp|500]]
+
 ## General
 | Type        | Effect / Description                             |
 | ----------- | ------------------------------------------------ |

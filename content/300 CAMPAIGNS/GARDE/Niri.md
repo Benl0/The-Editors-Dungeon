@@ -13,10 +13,10 @@ book:
 page: 
 world: Garde
 campaign: Garde
-faction: 
+faction: Dane
 location: 
 description: Best friend of Dane
-race: Wood-Elf
+species: Wood-Elf
 gender: Man
 class: Fighter
 ---

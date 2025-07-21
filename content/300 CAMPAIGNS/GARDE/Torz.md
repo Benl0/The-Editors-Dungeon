@@ -12,7 +12,7 @@ campaign: Garde
 faction: The Spear Inn
 location: Haven
 description: Bartender at The Spear Inn
-race: Dwarf
+species: Dwarf
 gender: male
 class: Bard
 ---

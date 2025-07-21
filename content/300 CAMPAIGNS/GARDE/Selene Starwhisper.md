@@ -12,7 +12,7 @@ campaign: Garde
 faction: The Crumbling Moon
 location: 
 description: Leader of The Crumbling Moon
-race: Aasimar
+species: Aasimar
 gender: Non-Binary
 class: Wizard
 ---

@@ -12,7 +12,7 @@ campaign: Garde
 faction: Deity
 location: 
 description: Goddess of magic
-race: God
+species: God
 gender: 
 class:
 ---

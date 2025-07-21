@@ -12,7 +12,7 @@ campaign: Garde
 faction: 
 location: Verlust
 description: Capital city of Verlust
-race: 
+species: 
 gender: 
 class:
 ---

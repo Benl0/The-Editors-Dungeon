@@ -13,3 +13,4 @@ tags:
 # Game Master's Home
 
 - [[Plugins]]
+- [[Publish Check]]

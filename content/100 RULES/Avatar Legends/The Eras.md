@@ -15,7 +15,7 @@ campaign: Avatar Legends
 faction: 
 location: 
 description: 
-race: 
+species: 
 gender: 
 class:
 ---

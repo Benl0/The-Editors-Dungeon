@@ -15,7 +15,7 @@ campaign: Garde
 faction: 
 location: 
 description: 
-race: 
+species: 
 gender: 
 class:
 ---
@@ -28,14 +28,14 @@ class:
 
 ### In Garde
 Lliira is supposed to have no interest with power and status, being very troubled while guarding Waukeen's power. However, in the story of Garde, she gave in to the power, absorbing it into herself. Perhaps she was sick of being a babysitter, or she was forced to protect something, or someone, she cared for.
-In the end, history repeated one, more time. Absolute power corrupts absolutely and Lliira was on a war path against all evil. The antithesis to joy was her enemy. 
+In the end, history repeated one, more time. Absolute power, corrupts absolutely and Lliira was on a war path against all evil. The antithesis to joy was her enemy. 
 
 This started simple. The devils, demons and deities of the outer planes, constantly tricking, deceiving and murdering lesser creatures. However, Lliira's attention soon turned to all evil and wrong doing eventually coming to believe existence is pain, especially that of the material plane. 
 When a deity was felled, she would take their power unto herself and lust for more. Her conviction growing every time. The material plane was plunged into chaos as Lliiria's followers started murdering in her name. Ultimately believing they were releasing each and every creature from a life of pain and misery.
 
 ![[lliira-02.jpg|250]] ![[lliira-04.jpg|250]]
 
-## War of Misguided Gods
+## [[The Misguided War]]
 As the Lliirianites' campaign spread across Faerun, bands of adventurers began to fight back. Many tried, in vain, to save people but the power of a goddess is too much for mere mortals. Lliiria had power to spare and became a patron to nearly all her followers. 
 
 One party of eight decided to fight against the source of the chaos. This was [[Eliza Trotz|Eliza's]] party.
@@ -48,6 +48,8 @@ What wasn't immediately evaporated found itself in a new world. The blast was so
 
 ## Era's of Garde
  See [[Garde History]] for a detailed breakdown of Garde's history following its creation.
+
+
 
 # TLDR
 > [!example] TLDR

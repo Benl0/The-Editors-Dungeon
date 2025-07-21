@@ -12,7 +12,7 @@ campaign: NPCs
 faction: 
 location: 
 description: 
-race: 
+species: 
 gender: 
 class:
 ---

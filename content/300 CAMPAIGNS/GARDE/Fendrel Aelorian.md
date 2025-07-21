@@ -12,7 +12,7 @@ campaign: Garde
 faction: Trotz Royal Family
 location: Haven
 description: Scholar and advisor
-race: Half-Elf
+species: Half-Elf
 gender: Man
 class: Wizard
 ---

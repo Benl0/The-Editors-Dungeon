@@ -14,11 +14,11 @@ campaign: Garde
 faction: 
 location: 
 description: 
-race: 
+species: 
 gender: 
 class:
 ---
-##### Back: [[David]]
+##### Back: [[David Starfate]]
 
 ---
 

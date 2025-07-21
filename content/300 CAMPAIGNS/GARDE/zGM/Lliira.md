@@ -1,7 +1,7 @@
 ---
 title: 
 aliases: 
-publish: false
+publish: true
 cssclasses: 
 date: 2024-12-23 18:40
 type: npc
@@ -12,10 +12,10 @@ book:
 page: 
 world: Garde
 campaign: Garde
-faction: 
+faction: Deity
 location: 
-description: 
-race: 
+description: Goddess of Joy
+species: 
 gender: 
 class:
 ---

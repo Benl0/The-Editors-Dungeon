@@ -10,19 +10,19 @@ tags:
 system: 5e
 book: 
 page: 
-world: zGM
-campaign: zGM
+world: Garde
+campaign: Garde
 faction: 
 location: 
 description: 
-race: 
+species: 
 gender: 
 class:
 ---
 ##### Back: [[Garde GM MOC]]
 # Anchors
 
-To prevent [[Garde World|Garde]] from crumbling into 
+To prevent [[Garde World|Garde]] from crumbling into the Ethereal Plane.
 
 
 
@@ -39,4 +39,24 @@ To prevent [[Garde World|Garde]] from crumbling into
 > [!FAQ] Does the banishment spell work?
 > Because Garde is a giant Demiplane containing matter fully foreign to it itself, the banishment spell behaves strangely.
 > The anchors also don't help, locking all physical matter from leaving. Only the soul can leave, since souls already travel the planes on the regular. A freed soul cannot be restrained
+
+
+# Locations
+
+## Scarred Archipelago
+- One Piece story arc
+- Travel between the islands, each one a totally different weather system.
+- Adventure
+
+## Morndoom Peak
+- Arena battle the orcs to gain passage up the mountain?
+
+## Leiden Fortress
+- Hidden in the dungeon's basement
+- Fight or sneak through the fortress
+- Boat ride over with powerful sea monsters on the way.
+
+## Frozen Wastes
+- No specific location
+- To gain access, must pass through [[Aqiel]].
 

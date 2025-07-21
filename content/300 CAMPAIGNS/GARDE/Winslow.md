@@ -12,7 +12,7 @@ campaign: Garde
 faction: 
 location: 
 description: The Warlock who will be heard by their patron deity
-race: Half-Elf
+species: Half-Elf
 gender: 
 class: Warlock
 ---
@@ -22,7 +22,7 @@ class: Warlock
 Winslow is a [[Half-Elf]] [[Warlock]] who is absolutely in love with his patron god, even though they might not even know Winslow exists
 
 ## Patron god
-- Lliira, Goddess of Joy
+- [[Lliira]], Goddess of Joy
 - Chaotic Good
 - Winslow fully believes that they are helping people by killing them.
 	- "They're going to Lliira heaven of joy. Plus, she hasn't stopped me so I must be doing good!"

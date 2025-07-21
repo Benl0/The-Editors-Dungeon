@@ -13,7 +13,7 @@ campaign: Garde
 faction: 
 location: 
 description: Dethroned royalty from Aqiel
-race: High-Elf
+species: High-Elf
 gender: female
 class: Rogue
 ---

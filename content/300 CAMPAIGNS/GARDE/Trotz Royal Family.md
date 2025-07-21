@@ -12,7 +12,7 @@ campaign: Garde
 faction: 
 location: Haven
 description: The Royal family of Verlust
-race: 
+species: 
 gender: 
 class:
 ---

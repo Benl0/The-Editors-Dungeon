@@ -15,7 +15,7 @@ campaign: Garde
 faction: 
 location: Haven
 description: Owner of Enilin's Center
-race: Tabaxi
+species: Tabaxi
 gender: Woman
 class:
 ---

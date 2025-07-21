@@ -12,7 +12,7 @@ campaign: Garde
 faction: Trotz Royal Family
 location: Haven
 description: Queen of Verlust
-race: Human
+species: Human
 gender: Woman
 class: Bard
 ---

@@ -1,6 +1,6 @@
 ---
 title: Planar Anchor
-publish: true
+publish: false
 cssclasses:
   - dashboard
 date: 2024-05-26
@@ -37,7 +37,7 @@ tags:
     - **School:** Abjuration
 - **Components:**
     - VSM
-    - A small model anchor
+    - A small anchor and rope
 
 ## Description:
 You choose one creature you can see within range. The target must succeed on a Charisma saving throw. If it succeeds, the spell is not cast.
@@ -49,20 +49,20 @@ After holding concentration for 1 minute, the target is unable to blink, telepor
 >
 > ```statblock
 > layout: Spells
-> source: 
-> name: 
-> image: 
-> level: 
-> school: 
-> class: 
-> duration: 
-> ritual: 
-> casting_time: 
-> range: 
+> source: "Homebrew"
+> name: "Planar Anchor"
+> image: [[anchor.webp]]
+> level: "5th"
+> school: "Abjuration"
+> class: "Bard, Sorcerer, Warlock, Wizard"
+> duration: "1 Hour"
+> ritual: "no"
+> casting_time: "Concentration, 1 minute"
+> range: "60 Feet"
 >
-> components: 
-> comp_m: 
+> components: "VSM"
+> comp_m: "A small anchor and rope"
 >
-> description: 
+> description: "You choose one creature you can see within range. The target must succeed on a Charisma saving throw. If it succeeds, the spell is not cast.\nAfter holding concentration for 1 minute, the target is unable to blink, teleport or leave the current plane."
 > higher_level: 
 > ```

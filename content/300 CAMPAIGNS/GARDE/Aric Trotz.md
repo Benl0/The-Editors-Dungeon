@@ -12,7 +12,7 @@ campaign: Garde
 faction: Trotz Royal Family
 location: Haven
 description: King of Verlust
-race: Human
+species: Human
 gender: Man
 class: Fighter
 ---

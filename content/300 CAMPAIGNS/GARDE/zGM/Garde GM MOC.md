@@ -15,19 +15,20 @@ campaign: Garde
 # General
 - ## Plan
 	- [[Story Bible]]
-	- [[Compelling Villains]]
 	- [[To Exploit]]
 	- [[Garde Roadmap]]
-- ## Inspiration
-	- [[Monster ideas]]
-	- [[Campaign Ideas]]
-- ## Reference
-	- [[Garde Calendar]]
-	- [[Plugins]]
 - ## Lore
 	- [[Garde History]]
 	- [[The Three Moons]]
+	- [[The Misguided War]]
 	- [[Astral Plane Anchors]]
+- ## Reference
+	- [[Compelling Villains]]
+	- [[Garde Calendar]]
+	- [[Plugins]]
+- ## Inspiration
+	- [[Monster ideas]]
+	- [[Campaign Ideas]]
 - ## Other
 	- [[To Research]]
 
@@ -36,14 +37,22 @@ campaign: Garde
 
 
 
-## Factions
-```dataview
-TABLE WITHOUT ID
-file.link AS "Faction", location AS "Location"
-FROM "300 CAMPAIGNS/Garde"
-WHERE contains(type,"faction")
-```
+> [!INFO]- Factions
+> ```dataview
+> TABLE WITHOUT ID
+> file.link AS "Faction", location AS "Location"
+> FROM "300 CAMPAIGNS/Garde"
+> WHERE contains(type,"faction")
+> ```
 
+> [!INFO]- NPC
+> ```dataview
+> TABLE WITHOUT ID
+> file.link AS "Character", faction AS "Faction"
+> FROM "300 CAMPAIGNS/Garde"
+> WHERE contains(type,"npc")
+> SORT faction
+> ```
 
 ---
 
@@ -89,3 +98,4 @@ defaultZoom: 6
 > [!warning]- Old
 > - [[Story Plan v1]]
 > - [[Story plan v2]]
+

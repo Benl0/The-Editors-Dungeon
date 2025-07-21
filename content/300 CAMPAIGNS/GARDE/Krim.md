@@ -13,10 +13,10 @@ book:
 page: 
 world: Garde
 campaign: Garde
-faction: 
+faction: Dane
 location: 
 description: Dane's teacher and father figure
-race: 
+species: 
 gender: Man
 class: Fighter
 ---

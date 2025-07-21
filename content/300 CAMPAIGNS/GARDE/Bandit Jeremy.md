@@ -12,7 +12,7 @@ campaign: Garde
 faction: Haven Thieves Guild
 location: Haven
 description: A bandit from Haven
-race: Human
+species: Human
 gender: male
 class:
 ---

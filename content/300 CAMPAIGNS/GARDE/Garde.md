@@ -43,6 +43,9 @@ system: 5e
 	4. [[4 Ancient Cathedral|Delve into the ruins]]
 	5. [[5 Ancient Cathedral|Brawl at the Cathedral]]
 	6. [[6 Ancient Cathedral|Backup at the Cathedral]]
+	7. [[7 Next Steps|Next Steps]]
+- ### The Adventure Begins
+	1. *Soon!*
 
 
 ---

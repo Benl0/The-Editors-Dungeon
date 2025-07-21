@@ -12,7 +12,7 @@ campaign: Garde
 faction: The Crumbling Moon
 location: Garde
 description: Mysterious figure of the Crumbling moon
-race: Tiefling
+species: Tiefling
 gender: Woman
 class: Wizard
 ---

@@ -12,7 +12,7 @@ campaign: Garde
 faction: Boros Legion
 location: 
 description: Paladin of the Legion
-race: Human
+species: Human
 gender: male
 class: Paladin
 ---

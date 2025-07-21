@@ -13,7 +13,7 @@ campaign: Garde
 faction: 
 location: 
 description: List of factions
-race: 
+species: 
 gender: 
 class:
 ---

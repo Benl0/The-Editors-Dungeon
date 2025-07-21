@@ -12,7 +12,7 @@ campaign: Garde
 faction: 
 location: Verlust
 description: Country of Verlust
-race: 
+species: 
 gender: 
 class:
 ---
@@ -26,6 +26,8 @@ A rich and prosperous kingdom, Verlust has benefitted from hundreds of years of 
 # Cities
 - [[Haven]]
 
+## Points of Interest
+- [[The Mural]]
 
 
 > [!BUG]- GM's Corner

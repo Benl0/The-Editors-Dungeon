@@ -12,7 +12,7 @@ campaign: Garde
 faction: Deity
 location: 
 description: Goddess of illusion
-race: God
+species: God
 gender: 
 class:
 ---

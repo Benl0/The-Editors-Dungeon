@@ -34,7 +34,7 @@ Your background changes who you will play in more ways than one. You might be ab
 | Entertainer   | Acrobatics (Dex)<br>Perfomance (Cha)     | Disguise kit<br>1 Musical instrument  |           |
 | Folk Hero     | Animal handling (Wis)<br>Survival (Wis)  | 1 Artisan tools<br>Vehicles (land)    |           |
 | Guild Artisan | Insight (Wis)<br>Persuasion (Cha)        | 1 Artisan tools                       | Any 1     |
-| Hermit        | Medicine (Wis)<br>Religin (Int)          | Herbalism kit                         | Any 1     |
+| Hermit        | Medicine (Wis)<br>Religion (Int)         | Herbalism kit                         | Any 1     |
 | Noble         | History (Int)<br>Persuasion (Cha)        | 1 Gaming set                          | Any 1     |
 | Outlander     | Atletics (Str)<br>Survival (Wis)         | 1 Musical instrument                  | Any 1     |
 | Sage          | Arcana (Int)<br>History (Int)            |                                       | Any 2     |

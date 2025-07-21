@@ -15,7 +15,7 @@ campaign: Garde
 faction: 
 location: Haven
 description: 
-race: Warforge
+species: Warforge
 gender: Non-Binary
 class:
 ---

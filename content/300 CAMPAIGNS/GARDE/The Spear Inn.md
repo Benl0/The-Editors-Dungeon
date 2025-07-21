@@ -12,7 +12,7 @@ campaign: Garde
 faction: 
 location: Haven
 description: Inn within the city of Haven
-race: 
+species: 
 gender: 
 class:
 ---

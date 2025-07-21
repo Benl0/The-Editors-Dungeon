@@ -12,7 +12,7 @@ campaign: Garde
 faction: The Crumbling Moon
 location: Garde
 description: Cult trying to stop a mythical sorcerer from gaining power and destroying Garde
-race: 
+species: 
 gender: 
 class:
 ---

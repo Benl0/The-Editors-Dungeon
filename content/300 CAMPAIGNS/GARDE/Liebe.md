@@ -12,7 +12,7 @@ campaign: Garde
 faction: 
 location: Liebe
 description: Country of Liebe
-race: 
+species: 
 gender: 
 class:
 ---

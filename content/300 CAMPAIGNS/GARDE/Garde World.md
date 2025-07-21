@@ -11,8 +11,7 @@ campaign: Garde
 ---
 ##### Back: [[Garde|Garde]]
 
-> [!error] This page is incomplete
-> This page and the following pages are prone to change
+---
 
 A place full of stories and people. Garde is home to many races, from [[Human|Humans]] to [[Orc|Orcs]], from [[Gnome|Gnomes]] to [[Genasi]].
 Each race used to call a region of Garde home, but after millennia of history (and war), every kingdom has become a melting pot of people and culture, barring a few exceptions. Nowadays, much of the past has been lost or fallen into legend. The general population has no interest in what came before, all that matters is survival and co-existence. Because of this fact, it became nearly impossible to define borders. Most are content merely defending their cities and settlements, rather than an imaginary line.

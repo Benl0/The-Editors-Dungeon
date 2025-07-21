@@ -12,7 +12,7 @@ campaign: Garde
 faction: 
 location: 
 description: A lapine druid from Titan's Woods
-race: Lapine
+species: Lapine
 gender: Non-Binary
 class: Druid
 ---

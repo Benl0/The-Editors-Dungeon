@@ -13,10 +13,10 @@ book:
 page: 
 world: Garde
 campaign: Garde
-faction: 
+faction: Dane
 location: 
 description: Dane's older sister
-race: Human
+species: Human
 gender: Woman
 class: Sorcerer
 ---

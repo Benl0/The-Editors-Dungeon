@@ -77,7 +77,7 @@ tags:
 	- Elemental Chaos
 	- Astral Plane
 	- Ethereal Plane
-	- ![[the-planes-dmg-2024-v0-6r8g0atevc0e1.webp|250]]
+	- ![[the-planes.webp|250]]
 - ## Forgotten Realms
 	- Baldur's Gate
 	- WaterDeep

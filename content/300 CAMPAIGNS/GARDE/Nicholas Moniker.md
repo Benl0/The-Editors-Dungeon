@@ -12,10 +12,10 @@ book:
 page: 
 world: Garde
 campaign: Garde
-faction: 
+faction: Party
 location: 
 description: 
-race: Lapine
+species: Lapine
 gender: Man
 class: Fighter
 ---

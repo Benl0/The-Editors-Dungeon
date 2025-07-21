@@ -12,7 +12,7 @@ campaign: Garde
 faction: 
 location: 
 description: Ranger of the Woods and defender of a human village
-race: Wood-Elf
+species: Wood-Elf
 gender: male
 class: Ranger
 ---

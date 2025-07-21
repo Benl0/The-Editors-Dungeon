@@ -4,10 +4,12 @@
 		{"id":"4f5428f7d365aa90","type":"group","x":-918,"y":-1140,"width":1035,"height":2414,"color":"1","label":"Gameplay"},
 		{"id":"1279697f9bd22b44","type":"file","file":"IMAGES/GM REFERENCE/Weapons & Armor Reference Sheet.png","x":-904,"y":563,"width":1008,"height":698},
 		{"id":"95539b96478f04a8","type":"file","file":"IMAGES/GM REFERENCE/VO References For NPCs.jpg","x":180,"y":-200,"width":1110,"height":1474},
-		{"id":"06cf499cc71c35ee","type":"file","file":"IMAGES/GM REFERENCE/Better Combat Descriptions.png","x":180,"y":-1120,"width":1110,"height":862},
 		{"id":"b9e02b8179c4ef12","type":"file","file":"IMAGES/GM REFERENCE/Conditions & States Reference Sheet.png","x":-904,"y":-157,"width":1008,"height":698},
+		{"id":"06cf499cc71c35ee","type":"file","file":"IMAGES/GM REFERENCE/Better Combat Descriptions.png","x":180,"y":-1120,"width":1110,"height":862},
 		{"id":"a8c8821d4480dd6b","type":"file","file":"IMAGES/GM REFERENCE/Abilities Reference Sheet.png","x":-904,"y":-880,"width":1008,"height":698},
-		{"id":"d39beb9126096711","type":"file","file":"IMAGES/GM REFERENCE/Player Combat Actions Cheat Sheet.png","x":-904,"y":-1126,"width":1008,"height":237}
+		{"id":"d39beb9126096711","type":"file","file":"IMAGES/GM REFERENCE/Player Combat Actions Cheat Sheet.png","x":-904,"y":-1126,"width":1008,"height":237},
+		{"id":"71d60860aa1267e7","type":"text","text":"```leaflet\nid: Garde\nimage: [[Garde v2 - 6k.jpg]]\ndefaultZoom: 6\nmap_height_y: 3483\nmap_height_x: 6144\n```","x":160,"y":-1740,"width":1150,"height":537,"color":"2"},
+		{"id":"a3c46315735e7274","type":"file","file":"IMAGES/MAPS/WORLD/Garde v2 - 6k.jpg","x":-918,"y":-1782,"width":1021,"height":579}
 	],
 	"edges":[]
 }

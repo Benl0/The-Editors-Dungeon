@@ -1,6 +1,7 @@
 ---
 title: 
-aliases: 
+aliases:
+  - Dane
 publish: true
 cssclasses: 
 date: 2024-05-02 15:44
@@ -12,7 +13,7 @@ campaign: Garde
 faction: 
 location: 
 description: A fighter with a mission
-race: Human
+species: Human
 gender: male
 class: Fighter
 ---

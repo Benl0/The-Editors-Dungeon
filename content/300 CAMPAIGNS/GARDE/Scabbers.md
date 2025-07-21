@@ -10,10 +10,10 @@ tags:
   - Garde/NPC
 world: Garde
 campaign: Garde
-faction: 
+faction: Party
 location: 
 description: Sylvaris' pet mouse
-race: mouse
+species: mouse
 gender: 
 class:
 ---

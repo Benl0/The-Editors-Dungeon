@@ -25,11 +25,11 @@ tags:
 
 ## Abilities
 
-| Type                                                         | Effect / Description                                                               |
-| ------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
-| [[Abilities#Constitution\|Constitution]]                     | +2 to your Constitution score                                                      |
-| [[100 RULES/DnD 5e/120 CHARACTERS/FEATURES/Darkvision|Darkvision]] | See 60ft in dim light, but only black and white                                    |
-| Dwarven Resilience                                           | Advantage on saving throws against poison<br>plus resistance against poison damage |
+| Type                                                                | Effect / Description                                                               |                                                 |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------- |
+| [[Abilities#Constitution\|Constitution]]                            | +2 to your Constitution score                                                      |                                                 |
+| [[100 RULES/DnD 5e/120 CHARACTERS/FEATURES/Darkvision\|Darkvision]] | Darkvision                                                                         | See 60ft in dim light, but only black and white |
+| Dwarven Resilience                                                  | Advantage on saving throws against poison<br>plus resistance against poison damage |                                                 |
 
 ## Proficiencies
 

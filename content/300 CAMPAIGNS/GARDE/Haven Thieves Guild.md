@@ -12,7 +12,7 @@ campaign: Garde
 faction: 
 location: Haven
 description: 
-race: 
+species: 
 gender: 
 class:
 ---

@@ -13,7 +13,7 @@ campaign: Garde
 faction: 
 location: 
 description: A Gnome inventor from Haven
-race: Rock Gnome
+species: Rock Gnome
 gender: 
 class: Artificer
 ---

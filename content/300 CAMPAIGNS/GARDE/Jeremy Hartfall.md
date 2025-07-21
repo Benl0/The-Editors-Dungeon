@@ -8,7 +8,7 @@ tags:
   - Garde/NPC
 world: Garde
 faction: Trotz Royal Family
-race: Human
+species: Human
 class: Paladin
 location: Haven
 description: Paladin and Royal knight

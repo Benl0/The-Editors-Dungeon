@@ -75,7 +75,7 @@ Spells and magical effects such as dispel magic have no effect on the sphere. Li
 > image: [[conjuration.png]]
 > level: "8th"
 > school: "Abjuration"
-> class: "Wizard,Cleric"
+> class: "Wizard, Cleric"
 > duration: "Concentration, up to 1 hour"
 > ritual: "No"
 > casting_time: "1 action"

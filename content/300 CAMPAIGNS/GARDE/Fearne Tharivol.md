@@ -15,7 +15,7 @@ campaign: Garde
 faction: 
 location: Haven
 description: 
-race: Triton
+species: Triton
 gender: Non-Binary
 class:
 ---
