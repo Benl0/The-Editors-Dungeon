@@ -31,9 +31,10 @@ system: 5e
 - ## Friends
 	- [[Jeremy Hartfall]]
 	- [[Eliza Trotz|Eliza]]
-	- [[Nicholas Moniker]]
+	- [[David Starfate]]
 - ## Others
 	- [[Bandit Jeremy]]
+	- [[Nicholas Moniker]]
 	- [[Torz]]
 # Sessions
 - ### Small Beginnings
